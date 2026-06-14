@@ -1,0 +1,35 @@
+{
+  "name": "color-combinations-css",
+  "version": "1.0.0",
+  "description": "The 348 color combinations from Sanzo Wada's A Dictionary of Color Combinations, as overridable CSS custom properties grouped by theme.",
+  "style": "color-combinations.css",
+  "exports": {
+    ".": "./color-combinations.css",
+    "./color-combinations.css": "./color-combinations.css"
+  },
+  "files": [
+    "color-combinations.css"
+  ],
+  "keywords": [
+    "css",
+    "color",
+    "colour",
+    "palette",
+    "color-combinations",
+    "sanzo-wada",
+    "css-variables",
+    "custom-properties",
+    "theme",
+    "design-tokens"
+  ],
+  "author": "Olle Johannesson <johannesson.olle@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/olle-johannesson/color-combinations-css#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olle-johannesson/color-combinations-css.git"
+  },
+  "bugs": {
+    "url": "https://github.com/olle-johannesson/color-combinations-css/issues"
+  }
+}
