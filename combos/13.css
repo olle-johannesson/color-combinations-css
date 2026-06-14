@@ -1,0 +1,7 @@
+/* Combination 13: Raw Sienna, Veronia Purple
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #bb7125;
+  --cc-2: #8c4c62;
+}

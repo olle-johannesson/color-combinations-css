@@ -1,0 +1,7 @@
+/* Combination 67: Olympic Blue, Dark Tyrian Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #5a82b3;
+  --cc-2: #12354e;
+}

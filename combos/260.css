@@ -1,0 +1,9 @@
+/* Combination 260: Old Rose, Vinaceous Cinnamon, Glaucous Green, Sea Green
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #d46d7a;
+  --cc-2: #eea78c;
+  --cc-3: #b4cdc2;
+  --cc-4: #00b49b;
+}

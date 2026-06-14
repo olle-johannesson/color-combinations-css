@@ -1,0 +1,8 @@
+/* Combination 217: Pale Burnt Lake, Ochraceous Salmon, Diamine Green
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #802626;
+  --cc-2: #d8a37b;
+  --cc-3: #1a7444;
+}

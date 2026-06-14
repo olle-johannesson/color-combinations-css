@@ -1,0 +1,8 @@
+/* Combination 138: Golden Yellow, Lemon Yellow, Venice Green
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f3a257;
+  --cc-2: #f8ed43;
+  --cc-3: #62c6bf;
+}

@@ -1,0 +1,9 @@
+/* Combination 244: Light Brown Drab, Vinaceous Tawny, Andover Green, Antwarp Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #b59392;
+  --cc-2: #c56127;
+  --cc-3: #6d7e77;
+  --cc-4: #007190;
+}

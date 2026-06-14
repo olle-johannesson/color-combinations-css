@@ -1,0 +1,8 @@
+/* Combination 150: Seashell Pink, Citron Yellow, Glaucous Green
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #fdd4bd;
+  --cc-2: #b2b73e;
+  --cc-3: #b4cdc2;
+}

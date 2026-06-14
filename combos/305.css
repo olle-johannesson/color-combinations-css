@@ -1,0 +1,9 @@
+/* Combination 305: Pinkish Cinnamon, Apricot Yellow, Citron Yellow, Turquoise Green
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #eeb480;
+  --cc-2: #ffdd00;
+  --cc-3: #b2b73e;
+  --cc-4: #b5decc;
+}

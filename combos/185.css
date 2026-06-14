@@ -1,0 +1,8 @@
+/* Combination 185: Light Brown Drab, Etruscan Red, Pale Lemon Yellow
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #b59392;
+  --cc-2: #c55347;
+  --cc-3: #ffefae;
+}

@@ -1,0 +1,7 @@
+/* Combination 48: Rosolanc Purple, Helvetia Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #b73f74;
+  --cc-2: #005b8d;
+}

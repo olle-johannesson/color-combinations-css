@@ -1,0 +1,9 @@
+/* Combination 320: Coral Red, Sulpher Yellow, Oil Green, Light Glaucous Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f58e84;
+  --cc-2: #f5ecc2;
+  --cc-3: #819238;
+  --cc-4: #a5c8d1;
+}

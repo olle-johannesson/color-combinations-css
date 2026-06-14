@@ -1,0 +1,8 @@
+/* Combination 144: Rosolanc Purple, Orange, Black
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #b73f74;
+  --cc-2: #f37420;
+  --cc-3: #111314;
+}

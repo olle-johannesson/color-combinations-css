@@ -1,0 +1,8 @@
+/* Combination 133: Vandyke Red, Citrine, Sea Green
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #82241f;
+  --cc-2: #b09f36;
+  --cc-3: #00b49b;
+}

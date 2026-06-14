@@ -1,0 +1,7 @@
+/* Combination 1: English Red, Cerulian Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #d96629;
+  --cc-2: #0093a5;
+}

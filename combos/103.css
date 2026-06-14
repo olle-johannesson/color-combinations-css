@@ -1,0 +1,7 @@
+/* Combination 103: Cinnamon Rufous, Dusky Madder Violet
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #c27544;
+  --cc-2: #4e1d4c;
+}

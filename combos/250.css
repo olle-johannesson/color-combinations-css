@@ -1,0 +1,9 @@
+/* Combination 250: Pyrite Yellow, Peach Red, Sea Green, Nile Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #cab356;
+  --cc-2: #f15a30;
+  --cc-3: #00b49b;
+  --cc-4: #bce4e5;
+}

@@ -1,0 +1,9 @@
+/* Combination 286: Burnt Sienna, Orange Yellow, Peacock Blue, Violet Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #ae5224;
+  --cc-2: #fcb315;
+  --cc-3: #00939b;
+  --cc-4: #40456a;
+}

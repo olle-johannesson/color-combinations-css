@@ -1,0 +1,9 @@
+/* Combination 322: Spectrum Red, Brick Red, Eupatorium Purple, Blue Violet
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #e31f26;
+  --cc-2: #a84222;
+  --cc-3: #bf5892;
+  --cc-4: #6450a1;
+}

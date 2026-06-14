@@ -1,0 +1,9 @@
+/* Combination 283: Ochre Red, Pale Burnt Lake, Chromium Green, Venice Green
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #ab544d;
+  --cc-2: #802626;
+  --cc-3: #719470;
+  --cc-4: #62c6bf;
+}

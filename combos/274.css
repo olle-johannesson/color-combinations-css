@@ -1,0 +1,9 @@
+/* Combination 274: Peach Red, Dark Citrine, Olympic Blue, Light Mauve
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f15a30;
+  --cc-2: #8b835b;
+  --cc-3: #5a82b3;
+  --cc-4: #9a72aa;
+}

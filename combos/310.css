@@ -1,0 +1,9 @@
+/* Combination 310: Sulpher Yellow, Pinkish Cinnamon, Olive, Deep Slate Olive
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f5ecc2;
+  --cc-2: #eeb480;
+  --cc-3: #837e31;
+  --cc-4: #253122;
+}

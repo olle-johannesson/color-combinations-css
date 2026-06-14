@@ -1,0 +1,8 @@
+/* Combination 209: Ivory Buff, Yellow Orange, Salvia Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #ebd3a2;
+  --cc-2: #f99d1b;
+  --cc-3: #97acc8;
+}

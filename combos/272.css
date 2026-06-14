@@ -1,0 +1,9 @@
+/* Combination 272: Pale Lemon Yellow, Orange, Turquoise Green, Salvia Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #ffefae;
+  --cc-2: #f37420;
+  --cc-3: #b5decc;
+  --cc-4: #97acc8;
+}

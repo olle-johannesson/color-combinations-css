@@ -1,0 +1,7 @@
+/* Combination 116: Cameo Pink, Blue Violet
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #e0b3b6;
+  --cc-2: #6450a1;
+}

@@ -1,0 +1,9 @@
+/* Combination 345: Hay's Russet, Nile Blue, Venice Green, Blue Violet
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #793327;
+  --cc-2: #bce4e5;
+  --cc-3: #62c6bf;
+  --cc-4: #6450a1;
+}

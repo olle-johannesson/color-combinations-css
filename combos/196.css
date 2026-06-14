@@ -1,0 +1,8 @@
+/* Combination 196: Citron Yellow, Pale King's Blue, Blue Violet
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #b2b73e;
+  --cc-2: #a7d4e4;
+  --cc-3: #6450a1;
+}

@@ -1,0 +1,8 @@
+/* Combination 169: Corinthian Pink, Pale Lemon Yellow, Warm Gray
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f8b6ba;
+  --cc-2: #ffefae;
+  --cc-3: #a1a39a;
+}

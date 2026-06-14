@@ -1,0 +1,9 @@
+/* Combination 307: Carmine, Grayish Lavender - A, Aconite Violet, Cotinga Purple
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #cc1236;
+  --cc-2: #b5b1d8;
+  --cc-3: #a36aa5;
+  --cc-4: #501345;
+}

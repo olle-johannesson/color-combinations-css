@@ -1,0 +1,9 @@
+/* Combination 311: Pompeian Red, Cream Yellow, Dark Greenish Glaucous, Light Green Yellow
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #ab2439;
+  --cc-2: #fdbf68;
+  --cc-3: #b7c2a9;
+  --cc-4: #c7d14f;
+}

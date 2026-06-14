@@ -1,0 +1,9 @@
+/* Combination 324: Pompeian Red, Olympic Blue, Aconite Violet, Neutral Gray
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #ab2439;
+  --cc-2: #5a82b3;
+  --cc-3: #a36aa5;
+  --cc-4: #b6bfc1;
+}

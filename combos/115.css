@@ -1,0 +1,7 @@
+/* Combination 115: Naples Yellow, Peach Red
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #fbe6a0;
+  --cc-2: #f15a30;
+}

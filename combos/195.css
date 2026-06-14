@@ -1,0 +1,8 @@
+/* Combination 195: Spinel Red, Pale Lemon Yellow, Neutral Gray
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f27291;
+  --cc-2: #ffefae;
+  --cc-3: #b6bfc1;
+}

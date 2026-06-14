@@ -1,0 +1,7 @@
+/* Combination 54: Benzol Green, Light Glaucous Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #00978d;
+  --cc-2: #a5c8d1;
+}

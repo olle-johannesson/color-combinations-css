@@ -1,0 +1,9 @@
+/* Combination 335: Vandyke Red, Yellow Orange, Violet, Slate Color
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #82241f;
+  --cc-2: #f99d1b;
+  --cc-3: #4f4086;
+  --cc-4: #34454c;
+}

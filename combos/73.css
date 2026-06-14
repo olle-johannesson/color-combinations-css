@@ -1,0 +1,7 @@
+/* Combination 73: Pale Raw Umber, Rainette Green
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #71502f;
+  --cc-2: #8fa071;
+}

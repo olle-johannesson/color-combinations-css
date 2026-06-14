@@ -1,0 +1,9 @@
+/* Combination 342: Corinthian Pink, Cream Yellow, Orange Citrine, Deep Slate Olive
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f8b6ba;
+  --cc-2: #fdbf68;
+  --cc-3: #986f2d;
+  --cc-4: #253122;
+}

@@ -1,0 +1,8 @@
+/* Combination 143: Blue, Lilac, Warm Gray
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #006eb8;
+  --cc-2: #b984af;
+  --cc-3: #a1a39a;
+}

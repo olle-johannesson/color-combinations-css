@@ -1,0 +1,8 @@
+/* Combination 127: Cinnamon Buff, Pistachio Green, Dark Soft Violet
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #fdc57e;
+  --cc-2: #648f7b;
+  --cc-3: #66629c;
+}

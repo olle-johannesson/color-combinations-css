@@ -1,0 +1,8 @@
+/* Combination 206: Corinthian Pink, Golden Yellow, Cinnamon Rufous
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f8b6ba;
+  --cc-2: #f3a257;
+  --cc-3: #c27544;
+}

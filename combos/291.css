@@ -1,0 +1,9 @@
+/* Combination 291: Light Green Yellow, Sea Green, Cobalt Green, Calamine BLue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #c7d14f;
+  --cc-2: #00b49b;
+  --cc-3: #96d1aa;
+  --cc-4: #78cdd0;
+}

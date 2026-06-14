@@ -1,0 +1,9 @@
+/* Combination 258: Pale Burnt Lake, Pinkish Cinnamon, Olive, Antwarp Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #802626;
+  --cc-2: #eeb480;
+  --cc-3: #837e31;
+  --cc-4: #007190;
+}

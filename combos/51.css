@@ -1,0 +1,7 @@
+/* Combination 51: Carmine Red, Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #a62c37;
+  --cc-2: #006eb8;
+}

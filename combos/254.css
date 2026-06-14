@@ -1,0 +1,9 @@
+/* Combination 254: Corinthian Pink, Sulpher Yellow, Olive, Laelia Pink
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f8b6ba;
+  --cc-2: #f5ecc2;
+  --cc-3: #837e31;
+  --cc-4: #ca92a8;
+}

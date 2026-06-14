@@ -1,0 +1,8 @@
+/* Combination 152: Etruscan Red, Hay's Russet, Light Glaucous Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #c55347;
+  --cc-2: #793327;
+  --cc-3: #a5c8d1;
+}

@@ -1,0 +1,8 @@
+/* Combination 203: Pale Lemon Yellow, Vinaceous Cinnamon, Lincoln Green
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #ffefae;
+  --cc-2: #eea78c;
+  --cc-3: #555832;
+}

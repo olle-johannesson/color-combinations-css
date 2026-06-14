@@ -1,0 +1,9 @@
+/* Combination 344: Cinnamon Buff, Deep Lyons Blue, Aconite Violet, Black
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #fdc57e;
+  --cc-2: #1c4286;
+  --cc-3: #a36aa5;
+  --cc-4: #111314;
+}

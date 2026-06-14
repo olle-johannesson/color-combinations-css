@@ -1,0 +1,8 @@
+/* Combination 170: Rosolanc Purple, Orange Yellow, Red Violet
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #b73f74;
+  --cc-2: #fcb315;
+  --cc-3: #59256a;
+}

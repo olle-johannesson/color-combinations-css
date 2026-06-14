@@ -1,0 +1,8 @@
+/* Combination 171: Pale Burnt Lake, Yellow Orange, Glaucous Green
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #802626;
+  --cc-2: #f99d1b;
+  --cc-3: #b4cdc2;
+}

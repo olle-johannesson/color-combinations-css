@@ -1,0 +1,7 @@
+/* Combination 61: Light Green Yellow, Cotinga Purple
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #c7d14f;
+  --cc-2: #501345;
+}

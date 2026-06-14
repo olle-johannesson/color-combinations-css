@@ -1,0 +1,7 @@
+/* Combination 9: Violet Red, Dull Blue Violet
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #642d5e;
+  --cc-2: #80719e;
+}

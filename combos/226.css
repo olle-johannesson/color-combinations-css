@@ -1,0 +1,8 @@
+/* Combination 226: Vistoris Lake, Cream Yellow, Violet
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #6d4145;
+  --cc-2: #fdbf68;
+  --cc-3: #4f4086;
+}

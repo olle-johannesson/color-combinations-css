@@ -1,0 +1,8 @@
+/* Combination 180: Cinnamon Buff, Light Mauve, Neutral Gray
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #fdc57e;
+  --cc-2: #9a72aa;
+  --cc-3: #b6bfc1;
+}

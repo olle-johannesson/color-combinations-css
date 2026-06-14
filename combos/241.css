@@ -1,0 +1,9 @@
+/* Combination 241: Red Orange, Pale Lemon Yellow, Isabella Color, Dark Medici Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #dd4027;
+  --cc-2: #ffefae;
+  --cc-3: #c5a56e;
+  --cc-4: #547076;
+}

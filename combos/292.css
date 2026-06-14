@@ -1,0 +1,9 @@
+/* Combination 292: Pale Lemon Yellow, Pinkish Cinnamon, Isabella Color, Ecru
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #ffefae;
+  --cc-2: #eeb480;
+  --cc-3: #c5a56e;
+  --cc-4: #c2ae93;
+}

@@ -1,0 +1,9 @@
+/* Combination 339: Ochraceous Salmon, English Red, Light Glaucous Blue, Violet Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #d8a37b;
+  --cc-2: #d96629;
+  --cc-3: #a5c8d1;
+  --cc-4: #40456a;
+}

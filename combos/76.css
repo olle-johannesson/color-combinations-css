@@ -1,0 +1,7 @@
+/* Combination 76: Pale Lemon Yellow, Warm Gray
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #ffefae;
+  --cc-2: #a1a39a;
+}

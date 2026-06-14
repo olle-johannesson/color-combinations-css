@@ -1,0 +1,8 @@
+/* Combination 197: Eosine Pink, Dark Soft Violet, Neutral Gray
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f37f94;
+  --cc-2: #66629c;
+  --cc-3: #b6bfc1;
+}

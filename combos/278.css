@@ -1,0 +1,9 @@
+/* Combination 278: Cream Yellow, Olive Ocher, Cossack Green, Dusky Green
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #fdbf68;
+  --cc-2: #d6b43e;
+  --cc-3: #437742;
+  --cc-4: #004f46;
+}

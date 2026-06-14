@@ -1,0 +1,9 @@
+/* Combination 275: Etruscan Red, Ecru, Madder Brown, Taupe Brown
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #c55347;
+  --cc-2: #c2ae93;
+  --cc-3: #762c19;
+  --cc-4: #7a4456;
+}

@@ -1,0 +1,7 @@
+/* Combination 104: Carmine Red, Sulpher Yellow
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #a62c37;
+  --cc-2: #f5ecc2;
+}

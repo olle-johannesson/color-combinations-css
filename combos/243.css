@@ -1,0 +1,9 @@
+/* Combination 243: Raw Sienna, Ivory Buff, Olive Green, Slate Color
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #bb7125;
+  --cc-2: #ebd3a2;
+  --cc-3: #6b7140;
+  --cc-4: #34454c;
+}

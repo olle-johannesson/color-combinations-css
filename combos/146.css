@@ -1,0 +1,8 @@
+/* Combination 146: Khaki, Deep Grayish Olive, Diamine Green
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #bc892b;
+  --cc-2: #635a3a;
+  --cc-3: #1a7444;
+}

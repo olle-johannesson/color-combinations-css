@@ -1,0 +1,9 @@
+/* Combination 276: Eosine Pink, Seashell Pink, Yellow Green, Black
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f37f94;
+  --cc-2: #fdd4bd;
+  --cc-3: #afd472;
+  --cc-4: #111314;
+}

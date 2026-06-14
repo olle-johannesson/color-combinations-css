@@ -1,0 +1,7 @@
+/* Combination 111: Pale Lemon Yellow, Yellow Green
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #ffefae;
+  --cc-2: #afd472;
+}

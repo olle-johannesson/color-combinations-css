@@ -1,0 +1,8 @@
+/* Combination 187: Helvetia Blue, Grayish Lavender - B, Aconite Violet
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #005b8d;
+  --cc-2: #c0a9b3;
+  --cc-3: #a36aa5;
+}

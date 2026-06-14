@@ -1,0 +1,8 @@
+/* Combination 230: Grenadine Pink, Turquoise Green, Cobalt Green
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f48067;
+  --cc-2: #b5decc;
+  --cc-3: #96d1aa;
+}

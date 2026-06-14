@@ -1,0 +1,9 @@
+/* Combination 268: Light Brown Drab, Raw Sienna, Deep Slate Olive, Nile Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #b59392;
+  --cc-2: #bb7125;
+  --cc-3: #253122;
+  --cc-4: #bce4e5;
+}

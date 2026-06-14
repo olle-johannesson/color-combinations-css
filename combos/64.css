@@ -1,0 +1,7 @@
+/* Combination 64: Aconite Violet, Dark Soft Violet
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #a36aa5;
+  --cc-2: #66629c;
+}

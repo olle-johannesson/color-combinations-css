@@ -1,0 +1,8 @@
+/* Combination 202: Turquoise Green, Cobalt Green, Slate Color
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #b5decc;
+  --cc-2: #96d1aa;
+  --cc-3: #34454c;
+}

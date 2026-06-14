@@ -1,0 +1,9 @@
+/* Combination 297: Burnt Sienna, Yellow Orange, Olive Green, Violet Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #ae5224;
+  --cc-2: #f99d1b;
+  --cc-3: #6b7140;
+  --cc-4: #40456a;
+}

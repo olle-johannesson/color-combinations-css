@@ -1,0 +1,9 @@
+/* Combination 316: Vandyke Red, Dull Viridian Green, Violet, Red Violet
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #82241f;
+  --cc-2: #009465;
+  --cc-3: #4f4086;
+  --cc-4: #59256a;
+}

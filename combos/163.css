@@ -1,0 +1,8 @@
+/* Combination 163: Apricot Yellow, Turquoise Green, Antwarp Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #ffdd00;
+  --cc-2: #b5decc;
+  --cc-3: #007190;
+}

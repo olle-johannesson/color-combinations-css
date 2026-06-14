@@ -1,0 +1,7 @@
+/* Combination 120: Cameo Pink, Pompeian Red
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #e0b3b6;
+  --cc-2: #ab2439;
+}

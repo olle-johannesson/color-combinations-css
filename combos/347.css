@@ -1,0 +1,9 @@
+/* Combination 347: Olive Yellow, Sea Green, Helvetia Blue, Lilac
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #a6a159;
+  --cc-2: #00b49b;
+  --cc-3: #005b8d;
+  --cc-4: #b984af;
+}

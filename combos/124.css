@@ -1,0 +1,8 @@
+/* Combination 124: Pale Burnt Lake, Yellow Ocher, Olive Yellow
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #802626;
+  --cc-2: #e2b540;
+  --cc-3: #a6a159;
+}

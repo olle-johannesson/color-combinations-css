@@ -1,0 +1,9 @@
+/* Combination 262: Eugenia Red | B, Ivory Buff, Citrine, Cossack Green
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #da525d;
+  --cc-2: #ebd3a2;
+  --cc-3: #b09f36;
+  --cc-4: #437742;
+}

@@ -1,0 +1,9 @@
+/* Combination 255: Raw Sienna, Pyrite Yellow, Calamine BLue, Black
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #bb7125;
+  --cc-2: #cab356;
+  --cc-3: #78cdd0;
+  --cc-4: #111314;
+}

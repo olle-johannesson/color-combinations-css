@@ -1,0 +1,7 @@
+/* Combination 97: Corinthian Pink, Etruscan Red
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f8b6ba;
+  --cc-2: #c55347;
+}

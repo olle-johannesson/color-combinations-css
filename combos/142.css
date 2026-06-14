@@ -1,0 +1,8 @@
+/* Combination 142: Hydrangea Red, Sulphine Yellow, Salvia Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #a94151;
+  --cc-2: #c19f2c;
+  --cc-3: #97acc8;
+}

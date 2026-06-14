@@ -1,0 +1,9 @@
+/* Combination 300: Grenadine Pink, Cream Yellow, Turquoise Green, Calamine BLue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f48067;
+  --cc-2: #fdbf68;
+  --cc-3: #b5decc;
+  --cc-4: #78cdd0;
+}

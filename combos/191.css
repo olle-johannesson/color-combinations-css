@@ -1,0 +1,8 @@
+/* Combination 191: Light Brown Drab, Yellow Ocher, Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #b59392;
+  --cc-2: #e2b540;
+  --cc-3: #006eb8;
+}

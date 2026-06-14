@@ -1,0 +1,8 @@
+/* Combination 237: Carmine Red, Madder Brown, Salvia Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #a62c37;
+  --cc-2: #762c19;
+  --cc-3: #97acc8;
+}

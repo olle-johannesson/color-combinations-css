@@ -1,0 +1,8 @@
+/* Combination 160: Sulphine Yellow, Pale Raw Umber, Dark Medici Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #c19f2c;
+  --cc-2: #71502f;
+  --cc-3: #547076;
+}

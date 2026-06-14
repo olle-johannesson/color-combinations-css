@@ -1,0 +1,7 @@
+/* Combination 74: Turquoise Green, Green Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #b5decc;
+  --cc-2: #099197;
+}

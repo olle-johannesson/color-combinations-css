@@ -1,0 +1,8 @@
+/* Combination 156: Olive Ocher, Cobalt Green, Violet
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #d6b43e;
+  --cc-2: #96d1aa;
+  --cc-3: #4f4086;
+}

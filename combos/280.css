@@ -1,0 +1,9 @@
+/* Combination 280: Eugenia Red | B, Lincoln Green, Laelia Pink, Taupe Brown
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #da525d;
+  --cc-2: #555832;
+  --cc-3: #ca92a8;
+  --cc-4: #7a4456;
+}

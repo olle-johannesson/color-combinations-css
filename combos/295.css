@@ -1,0 +1,9 @@
+/* Combination 295: Cream Yellow, Yellow, Blue, Dull Violet Black
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #fdbf68;
+  --cc-2: #fff200;
+  --cc-3: #006eb8;
+  --cc-4: #1e0e3f;
+}

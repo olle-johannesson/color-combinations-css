@@ -1,0 +1,8 @@
+/* Combination 135: Sulpher Yellow, Cossack Green, Salvia Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f5ecc2;
+  --cc-2: #437742;
+  --cc-3: #97acc8;
+}

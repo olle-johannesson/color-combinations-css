@@ -1,0 +1,7 @@
+/* Combination 56: Grayish Lavender - B, Violet
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #c0a9b3;
+  --cc-2: #4f4086;
+}

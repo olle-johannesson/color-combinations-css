@@ -1,0 +1,7 @@
+/* Combination 27: Corinthian Pink, Slate Color
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f8b6ba;
+  --cc-2: #34454c;
+}

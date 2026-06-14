@@ -1,0 +1,8 @@
+/* Combination 121: Brown, Ochraceous Salmon, Lincoln Green
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #7c4226;
+  --cc-2: #d8a37b;
+  --cc-3: #555832;
+}

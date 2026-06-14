@@ -1,0 +1,9 @@
+/* Combination 253: Lemon Yellow, Apricot Orange, Cotinga Purple, Slate Color
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f8ed43;
+  --cc-2: #f68c50;
+  --cc-3: #501345;
+  --cc-4: #34454c;
+}

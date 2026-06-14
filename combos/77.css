@@ -1,0 +1,7 @@
+/* Combination 77: Eugenia Red | B, Vandar Poel's Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #da525d;
+  --cc-2: #064f6e;
+}

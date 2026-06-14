@@ -1,0 +1,9 @@
+/* Combination 309: Golden Yellow, Apricot Orange, Violet Blue, Vandar Poel's Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f3a257;
+  --cc-2: #f68c50;
+  --cc-3: #40456a;
+  --cc-4: #064f6e;
+}

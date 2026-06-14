@@ -1,0 +1,9 @@
+/* Combination 259: Lemon Yellow, Green Blue, Helvetia Blue, Warm Gray
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f8ed43;
+  --cc-2: #099197;
+  --cc-3: #005b8d;
+  --cc-4: #a1a39a;
+}

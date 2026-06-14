@@ -1,0 +1,8 @@
+/* Combination 208: Sulpher Yellow, Green Blue, Antwarp Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f5ecc2;
+  --cc-2: #099197;
+  --cc-3: #007190;
+}

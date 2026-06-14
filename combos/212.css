@@ -1,0 +1,8 @@
+/* Combination 212: Pompeian Red, Orange Citrine, Salvia Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #ab2439;
+  --cc-2: #986f2d;
+  --cc-3: #97acc8;
+}

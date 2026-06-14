@@ -1,0 +1,8 @@
+/* Combination 140: Golden Yellow, Antwarp Blue, Slate Color
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f3a257;
+  --cc-2: #007190;
+  --cc-3: #34454c;
+}

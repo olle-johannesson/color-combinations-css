@@ -1,0 +1,8 @@
+/* Combination 184: Spinel Red, Ivory Buff, Light Grayish Olive
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f27291;
+  --cc-2: #ebd3a2;
+  --cc-3: #848061;
+}

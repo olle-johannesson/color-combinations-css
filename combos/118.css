@@ -1,0 +1,7 @@
+/* Combination 118: Yellow Ocher, Vandyke Brown
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #e2b540;
+  --cc-2: #4b3317;
+}

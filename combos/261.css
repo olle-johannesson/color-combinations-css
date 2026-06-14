@@ -1,0 +1,9 @@
+/* Combination 261: Red, Pale Lemon Yellow, Calamine BLue, Warm Gray
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #a72144;
+  --cc-2: #ffefae;
+  --cc-3: #78cdd0;
+  --cc-4: #a1a39a;
+}

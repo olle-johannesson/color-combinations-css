@@ -1,0 +1,9 @@
+/* Combination 245: Carmine Red, Oil Green, Dark Tyrian Blue, Slate Color
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #a62c37;
+  --cc-2: #819238;
+  --cc-3: #12354e;
+  --cc-4: #34454c;
+}

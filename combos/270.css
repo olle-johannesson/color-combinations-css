@@ -1,0 +1,9 @@
+/* Combination 270: Eugenia Red | B, Sulpher Yellow, Olive Green, Cossack Green
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #da525d;
+  --cc-2: #f5ecc2;
+  --cc-3: #6b7140;
+  --cc-4: #437742;
+}

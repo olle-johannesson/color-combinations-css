@@ -1,0 +1,8 @@
+/* Combination 205: Pale Burnt Lake, Vinaceous Cinnamon, Violet
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #802626;
+  --cc-2: #eea78c;
+  --cc-3: #4f4086;
+}

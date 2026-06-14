@@ -1,0 +1,8 @@
+/* Combination 173: Lemon Yellow, Madder Brown, Turquoise Green
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f8ed43;
+  --cc-2: #762c19;
+  --cc-3: #b5decc;
+}

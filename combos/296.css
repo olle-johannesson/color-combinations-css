@@ -1,0 +1,9 @@
+/* Combination 296: Sulpher Yellow, Ochraceous Salmon, Pale Raw Umber, Slate Color
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f5ecc2;
+  --cc-2: #d8a37b;
+  --cc-3: #71502f;
+  --cc-4: #34454c;
+}

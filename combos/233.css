@@ -1,0 +1,8 @@
+/* Combination 233: Carmine Red, Buffy Citrine, Violet Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #a62c37;
+  --cc-2: #96874d;
+  --cc-3: #40456a;
+}

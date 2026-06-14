@@ -1,0 +1,8 @@
+/* Combination 240: Fresh Color, Yellow, Cerulian Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f6917e;
+  --cc-2: #fff200;
+  --cc-3: #0093a5;
+}

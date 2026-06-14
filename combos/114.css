@@ -1,0 +1,7 @@
+/* Combination 114: Orange Yellow, Antwarp Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #fcb315;
+  --cc-2: #007190;
+}

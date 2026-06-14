@@ -1,0 +1,9 @@
+/* Combination 267: Cream Yellow, Yellow Orange, Benzol Green, Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #fdbf68;
+  --cc-2: #f99d1b;
+  --cc-3: #00978d;
+  --cc-4: #006eb8;
+}

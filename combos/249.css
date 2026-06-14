@@ -1,0 +1,9 @@
+/* Combination 249: Hay's Russet, Ecru, Olive Ocher, Dark Medici Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #793327;
+  --cc-2: #c2ae93;
+  --cc-3: #d6b43e;
+  --cc-4: #547076;
+}

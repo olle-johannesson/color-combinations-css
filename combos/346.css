@@ -1,0 +1,9 @@
+/* Combination 346: Rosolanc Purple, Turquoise Green, Light Green Yellow, Andover Green
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #b73f74;
+  --cc-2: #b5decc;
+  --cc-3: #c7d14f;
+  --cc-4: #6d7e77;
+}

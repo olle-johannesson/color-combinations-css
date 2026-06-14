@@ -1,0 +1,8 @@
+/* Combination 192: Cream Yellow, Vandyke Brown, Deep Violet / Plumbeous
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #fdbf68;
+  --cc-2: #4b3317;
+  --cc-3: #70727c;
+}

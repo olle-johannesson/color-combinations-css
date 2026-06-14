@@ -1,0 +1,8 @@
+/* Combination 162: Old Rose, Rainette Green, Lilac
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #d46d7a;
+  --cc-2: #8fa071;
+  --cc-3: #b984af;
+}

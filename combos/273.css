@@ -1,0 +1,9 @@
+/* Combination 273: Hermosa Pink, Pansy Purple, Sudan Brown, Neutral Gray
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f9c1ce;
+  --cc-2: #7d133a;
+  --cc-3: #a36752;
+  --cc-4: #b6bfc1;
+}

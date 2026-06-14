@@ -1,0 +1,9 @@
+/* Combination 271: Pomegranite Purple, Cobalt Green, Green Blue, Deep Slate Green
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #b71f57;
+  --cc-2: #96d1aa;
+  --cc-3: #099197;
+  --cc-4: #112f2c;
+}

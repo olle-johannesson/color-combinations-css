@@ -1,0 +1,8 @@
+/* Combination 164: Red Orange, Orange Yellow, Violet
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #dd4027;
+  --cc-2: #fcb315;
+  --cc-3: #4f4086;
+}

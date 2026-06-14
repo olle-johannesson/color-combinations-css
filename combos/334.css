@@ -1,0 +1,9 @@
+/* Combination 334: Seashell Pink, Olive, Yellow Green, Antwarp Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #fdd4bd;
+  --cc-2: #837e31;
+  --cc-3: #afd472;
+  --cc-4: #007190;
+}

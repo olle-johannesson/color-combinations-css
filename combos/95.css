@@ -1,0 +1,7 @@
+/* Combination 95: Hay's Russet, Dull Violet Black
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #793327;
+  --cc-2: #1e0e3f;
+}

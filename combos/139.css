@@ -1,0 +1,8 @@
+/* Combination 139: Salvia Blue, Deep Indigo, Neutral Gray
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #97acc8;
+  --cc-2: #051230;
+  --cc-3: #b6bfc1;
+}

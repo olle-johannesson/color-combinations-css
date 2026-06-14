@@ -1,0 +1,9 @@
+/* Combination 308: Fawn, Scarlet, English Red, Cobalt Green
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #d1b0a7;
+  --cc-2: #cb2f43;
+  --cc-3: #d96629;
+  --cc-4: #96d1aa;
+}

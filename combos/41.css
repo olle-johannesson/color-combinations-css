@@ -1,0 +1,7 @@
+/* Combination 41: Dark Citrine, Calamine BLue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #8b835b;
+  --cc-2: #78cdd0;
+}

@@ -1,0 +1,8 @@
+/* Combination 179: Red Orange, Golden Yellow, Deep Lyons Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #dd4027;
+  --cc-2: #f3a257;
+  --cc-3: #1c4286;
+}

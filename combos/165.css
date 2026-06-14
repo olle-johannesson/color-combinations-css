@@ -1,0 +1,8 @@
+/* Combination 165: Cameo Pink, Spinel Red, Vistoris Lake
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #e0b3b6;
+  --cc-2: #f27291;
+  --cc-3: #6d4145;
+}

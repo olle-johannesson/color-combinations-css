@@ -1,0 +1,7 @@
+/* Combination 78: Pinkish Cinnamon, Venice Green
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #eeb480;
+  --cc-2: #62c6bf;
+}

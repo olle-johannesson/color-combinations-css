@@ -1,0 +1,8 @@
+/* Combination 189: Lemon Yellow, Deep Slate Olive, Venice Green
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f8ed43;
+  --cc-2: #253122;
+  --cc-3: #62c6bf;
+}

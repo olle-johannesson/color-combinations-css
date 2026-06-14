@@ -1,0 +1,7 @@
+/* Combination 71: Pompeian Red, Ochraceous Salmon
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #ab2439;
+  --cc-2: #d8a37b;
+}

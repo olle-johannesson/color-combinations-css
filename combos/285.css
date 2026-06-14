@@ -1,0 +1,9 @@
+/* Combination 285: Light Brown Drab, Burnt Sienna, Peach Red, Turquoise Green
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #b59392;
+  --cc-2: #ae5224;
+  --cc-3: #f15a30;
+  --cc-4: #b5decc;
+}

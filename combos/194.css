@@ -1,0 +1,8 @@
+/* Combination 194: Jasper Red, Seashell Pink, Olympic Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #eb5324;
+  --cc-2: #fdd4bd;
+  --cc-3: #5a82b3;
+}

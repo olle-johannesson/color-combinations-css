@@ -1,0 +1,7 @@
+/* Combination 29: Krongbergs Green, Salvia Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #84875e;
+  --cc-2: #97acc8;
+}

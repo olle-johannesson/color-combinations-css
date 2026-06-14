@@ -1,0 +1,7 @@
+/* Combination 25: Etruscan Red, Nile Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #c55347;
+  --cc-2: #bce4e5;
+}

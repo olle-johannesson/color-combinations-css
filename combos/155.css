@@ -1,0 +1,8 @@
+/* Combination 155: Jasper Red, Benzol Green, Deep Indigo
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #eb5324;
+  --cc-2: #00978d;
+  --cc-3: #051230;
+}

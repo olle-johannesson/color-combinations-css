@@ -1,0 +1,8 @@
+/* Combination 172: Cinnamon Rufous, Antwarp Blue, Red Violet
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #c27544;
+  --cc-2: #007190;
+  --cc-3: #59256a;
+}

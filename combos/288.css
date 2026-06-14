@@ -1,0 +1,9 @@
+/* Combination 288: Yellow Orange, Sepia, Taupe Brown, Black
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f99d1b;
+  --cc-2: #644b1e;
+  --cc-3: #7a4456;
+  --cc-4: #111314;
+}

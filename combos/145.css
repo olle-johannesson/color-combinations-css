@@ -1,0 +1,8 @@
+/* Combination 145: Brown, Citron Yellow, Dull Violet Black
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #7c4226;
+  --cc-2: #b2b73e;
+  --cc-3: #1e0e3f;
+}

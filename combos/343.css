@@ -1,0 +1,9 @@
+/* Combination 343: Burnt Sienna, Ivory Buff, Deep Grayish Olive, Vandar Poel's Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #ae5224;
+  --cc-2: #ebd3a2;
+  --cc-3: #635a3a;
+  --cc-4: #064f6e;
+}

@@ -1,0 +1,8 @@
+/* Combination 229: Golden Yellow, Deep Slate Olive, Neutral Gray
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f3a257;
+  --cc-2: #253122;
+  --cc-3: #b6bfc1;
+}

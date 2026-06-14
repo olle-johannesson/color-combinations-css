@@ -1,0 +1,8 @@
+/* Combination 199: Ochre Red, Light Brownish Olive, Deep Lyons Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #ab544d;
+  --cc-2: #806e4b;
+  --cc-3: #1c4286;
+}

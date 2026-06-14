@@ -1,0 +1,7 @@
+/* Combination 59: Eosine Pink, Citrine
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f37f94;
+  --cc-2: #b09f36;
+}

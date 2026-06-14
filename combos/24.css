@@ -1,0 +1,7 @@
+/* Combination 24: Sepia, Veronia Purple
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #644b1e;
+  --cc-2: #8c4c62;
+}

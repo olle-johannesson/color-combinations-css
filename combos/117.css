@@ -1,0 +1,7 @@
+/* Combination 117: Carmine, Black
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #cc1236;
+  --cc-2: #111314;
+}

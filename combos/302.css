@@ -1,0 +1,9 @@
+/* Combination 302: Cream Yellow, Ecru, Nile Blue, Antwarp Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #fdbf68;
+  --cc-2: #c2ae93;
+  --cc-3: #bce4e5;
+  --cc-4: #007190;
+}

@@ -1,0 +1,9 @@
+/* Combination 284: Eugenia Red | A, Apricot Yellow, Sea Green, Dusky Green
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #e2625e;
+  --cc-2: #ffdd00;
+  --cc-3: #00b49b;
+  --cc-4: #004f46;
+}

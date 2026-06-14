@@ -1,0 +1,9 @@
+/* Combination 281: Pale Lemon Yellow, Benzol Green, Cobalt Green, Antwarp Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #ffefae;
+  --cc-2: #00978d;
+  --cc-3: #96d1aa;
+  --cc-4: #007190;
+}

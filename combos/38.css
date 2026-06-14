@@ -1,0 +1,7 @@
+/* Combination 38: Diamine Green, Deep Lyons Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #1a7444;
+  --cc-2: #1c4286;
+}

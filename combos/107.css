@@ -1,0 +1,7 @@
+/* Combination 107: Apricot Yellow, Light Grayish Olive
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #ffdd00;
+  --cc-2: #848061;
+}

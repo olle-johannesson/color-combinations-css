@@ -4,6 +4,12 @@ The **348 color combinations** from Sanzo Wada's *A Dictionary of Color Combinat
 
 No JavaScript, no build step. Just a single CSS file.
 
+## The combinations
+
+Every combination, numbered `#1`–`#348`. Find one you like and use its number.
+
+![All 348 color combinations](./assets/combinations.svg)
+
 ## Install
 
 ```bash
@@ -42,6 +48,26 @@ Put `data-combo` on `<html>` to theme the whole page:
 ```html
 <html data-combo="42"> … </html>
 ```
+
+### Load just one combination
+
+If you only want a single palette and don't need all 348, load that combination's
+file instead — it sets `--cc-1 … --cc-N` directly on `:root`, so it themes the whole
+page with ~200 bytes:
+
+```html
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/color-combinations-css@1.1.0/combos/176.css"
+>
+```
+
+```css
+/* or in a bundler */
+@import "color-combinations-css/combos/176.css";
+```
+
+No `data-combo` attribute needed in this mode — the variables are global.
 
 ### Aliasing to your own names
 

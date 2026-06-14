@@ -1,0 +1,8 @@
+/* Combination 176: Hermosa Pink, Seashell Pink, Calamine BLue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f9c1ce;
+  --cc-2: #fdd4bd;
+  --cc-3: #78cdd0;
+}

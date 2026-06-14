@@ -1,0 +1,7 @@
+/* Combination 82: Hay's Russet, Dusky Madder Violet
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #793327;
+  --cc-2: #4e1d4c;
+}

@@ -1,0 +1,7 @@
+/* Combination 119: Light Glaucous Blue, Dark Tyrian Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #a5c8d1;
+  --cc-2: #12354e;
+}

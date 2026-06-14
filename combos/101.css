@@ -1,0 +1,7 @@
+/* Combination 101: Cameo Pink, Deep Lyons Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #e0b3b6;
+  --cc-2: #1c4286;
+}

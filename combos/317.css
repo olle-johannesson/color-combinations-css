@@ -1,0 +1,9 @@
+/* Combination 317: Light Pinkish Cinnamon, Ecru, Lemon Yellow, Turquoise Green
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #fcc79b;
+  --cc-2: #c2ae93;
+  --cc-3: #f8ed43;
+  --cc-4: #b5decc;
+}

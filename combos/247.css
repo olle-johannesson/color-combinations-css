@@ -1,0 +1,9 @@
+/* Combination 247: Raw Sienna, Apricot Yellow, Benzol Green, Deep Lyons Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #bb7125;
+  --cc-2: #ffdd00;
+  --cc-3: #00978d;
+  --cc-4: #1c4286;
+}

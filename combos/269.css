@@ -1,0 +1,9 @@
+/* Combination 269: Raw Sienna, Pale Burnt Lake, Aconite Violet, Black
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #bb7125;
+  --cc-2: #802626;
+  --cc-3: #a36aa5;
+  --cc-4: #111314;
+}

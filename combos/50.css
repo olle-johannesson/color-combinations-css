@@ -1,0 +1,7 @@
+/* Combination 50: Ivory Buff, Dusky Madder Violet
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #ebd3a2;
+  --cc-2: #4e1d4c;
+}

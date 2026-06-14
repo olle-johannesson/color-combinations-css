@@ -1,0 +1,9 @@
+/* Combination 321: Light Brown Drab, Sulpher Yellow, Deep Slate Olive, Salvia Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #b59392;
+  --cc-2: #f5ecc2;
+  --cc-3: #253122;
+  --cc-4: #97acc8;
+}

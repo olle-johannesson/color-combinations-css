@@ -1,0 +1,7 @@
+/* Combination 65: Sulphine Yellow, Calamine BLue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #c19f2c;
+  --cc-2: #78cdd0;
+}

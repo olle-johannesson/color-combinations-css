@@ -1,0 +1,9 @@
+/* Combination 318: Light Brownish Olive, Blackish Olive, Dusky Green, Deep Slate Green
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #806e4b;
+  --cc-2: #42533e;
+  --cc-3: #004f46;
+  --cc-4: #112f2c;
+}

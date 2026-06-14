@@ -1,0 +1,9 @@
+/* Combination 264: Corinthian Pink, Red Orange, Dark Greenish Glaucous, Cerulian Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f8b6ba;
+  --cc-2: #dd4027;
+  --cc-3: #b7c2a9;
+  --cc-4: #0093a5;
+}

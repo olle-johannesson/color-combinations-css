@@ -1,0 +1,9 @@
+/* Combination 340: Peach Red, Sea Green, Neutral Gray, Black
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f15a30;
+  --cc-2: #00b49b;
+  --cc-3: #b6bfc1;
+  --cc-4: #111314;
+}

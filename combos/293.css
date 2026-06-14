@@ -1,0 +1,9 @@
+/* Combination 293: Raw Sienna, Turquoise Green, Artemesia Green, Green
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #bb7125;
+  --cc-2: #b5decc;
+  --cc-3: #709390;
+  --cc-4: #489b6e;
+}

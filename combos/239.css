@@ -1,0 +1,8 @@
+/* Combination 239: Light Brown Drab, Pyrite Yellow, Glaucous Green
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #b59392;
+  --cc-2: #cab356;
+  --cc-3: #b4cdc2;
+}

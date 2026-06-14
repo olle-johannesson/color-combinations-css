@@ -1,0 +1,7 @@
+/* Combination 31: Red Orange, Pale Lemon Yellow
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #dd4027;
+  --cc-2: #ffefae;
+}

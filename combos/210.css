@@ -1,0 +1,8 @@
+/* Combination 210: Cinnamon Buff, Lemon Yellow, Lincoln Green
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #fdc57e;
+  --cc-2: #f8ed43;
+  --cc-3: #555832;
+}

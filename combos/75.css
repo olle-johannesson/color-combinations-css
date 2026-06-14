@@ -1,0 +1,7 @@
+/* Combination 75: Pale King's Blue, Violet Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #a7d4e4;
+  --cc-2: #40456a;
+}

@@ -1,0 +1,9 @@
+/* Combination 331: Indian Lake, Dull Violet Black, Light Mauve, Violet
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #c53c69;
+  --cc-2: #1e0e3f;
+  --cc-3: #9a72aa;
+  --cc-4: #4f4086;
+}

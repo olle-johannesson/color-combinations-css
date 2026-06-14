@@ -1,0 +1,7 @@
+/* Combination 84: Seashell Pink, Deep Slate Green
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #fdd4bd;
+  --cc-2: #112f2c;
+}

@@ -1,0 +1,8 @@
+/* Combination 207: Sudan Brown, Glaucous Green, Black
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #a36752;
+  --cc-2: #b4cdc2;
+  --cc-3: #111314;
+}

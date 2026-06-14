@@ -1,0 +1,7 @@
+/* Combination 91: Vistoris Lake, Orange Rufous
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #6d4145;
+  --cc-2: #c16b27;
+}

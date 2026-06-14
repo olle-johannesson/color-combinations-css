@@ -1,0 +1,9 @@
+/* Combination 289: Lemon Yellow, Light Green Yellow, Violet Blue, Dull Violet Black
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f8ed43;
+  --cc-2: #c7d14f;
+  --cc-3: #40456a;
+  --cc-4: #1e0e3f;
+}

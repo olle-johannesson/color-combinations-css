@@ -1,0 +1,9 @@
+/* Combination 325: Eugenia Red | B, Naples Yellow, Yellow Ocher, Deep Slate Green
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #da525d;
+  --cc-2: #fbe6a0;
+  --cc-3: #e2b540;
+  --cc-4: #112f2c;
+}

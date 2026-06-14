@@ -1,0 +1,7 @@
+/* Combination 15: Benzol Green, Grayish Lavender - A
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #00978d;
+  --cc-2: #b5b1d8;
+}

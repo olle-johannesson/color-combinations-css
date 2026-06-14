@@ -1,0 +1,9 @@
+/* Combination 252: Eugenia Red | B, Raw Sienna, Sulphine Yellow, Green Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #da525d;
+  --cc-2: #bb7125;
+  --cc-3: #c19f2c;
+  --cc-4: #099197;
+}

@@ -1,0 +1,8 @@
+/* Combination 223: Light Brown Drab, Ochraceous Salmon, Turquoise Green
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #b59392;
+  --cc-2: #d8a37b;
+  --cc-3: #b5decc;
+}

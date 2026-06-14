@@ -1,0 +1,8 @@
+/* Combination 137: Etruscan Red, Cinnamon Buff, Pistachio Green
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #c55347;
+  --cc-2: #fdc57e;
+  --cc-3: #648f7b;
+}

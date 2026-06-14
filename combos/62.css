@@ -1,0 +1,7 @@
+/* Combination 62: Yellow, Black
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #fff200;
+  --cc-2: #111314;
+}

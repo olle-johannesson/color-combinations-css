@@ -1,0 +1,9 @@
+/* Combination 246: Corinthian Pink, Brick Red, Sulpher Yellow, Cinnamon Buff
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f8b6ba;
+  --cc-2: #a84222;
+  --cc-3: #f5ecc2;
+  --cc-4: #fdc57e;
+}

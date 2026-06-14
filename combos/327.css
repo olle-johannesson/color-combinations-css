@@ -1,0 +1,9 @@
+/* Combination 327: Eosine Pink, Raw Sienna, Ecru, Grayish Lavender - B
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f37f94;
+  --cc-2: #bb7125;
+  --cc-3: #c2ae93;
+  --cc-4: #c0a9b3;
+}

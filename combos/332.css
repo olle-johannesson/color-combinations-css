@@ -1,0 +1,9 @@
+/* Combination 332: Coral Red, Scarlet, Deep Slate Olive, Dusky Green
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f58e84;
+  --cc-2: #cb2f43;
+  --cc-3: #253122;
+  --cc-4: #004f46;
+}

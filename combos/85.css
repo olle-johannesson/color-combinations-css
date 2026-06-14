@@ -1,0 +1,7 @@
+/* Combination 85: Vinaceous Tawny, Antwarp Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #c56127;
+  --cc-2: #007190;
+}

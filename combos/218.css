@@ -1,0 +1,8 @@
+/* Combination 218: Helvetia Blue, Grayish Lavender - A, Deep Violet / Plumbeous
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #005b8d;
+  --cc-2: #b5b1d8;
+  --cc-3: #70727c;
+}

@@ -1,0 +1,9 @@
+/* Combination 313: Carmine, Yellow, Diamine Green, Black
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #cc1236;
+  --cc-2: #fff200;
+  --cc-3: #1a7444;
+  --cc-4: #111314;
+}

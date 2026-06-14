@@ -1,0 +1,9 @@
+/* Combination 306: Lemon Yellow, Benzol Green, Dull Viridian Green, Nile Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f8ed43;
+  --cc-2: #00978d;
+  --cc-3: #009465;
+  --cc-4: #bce4e5;
+}

@@ -1,0 +1,8 @@
+/* Combination 224: Spinel Red, Dark Medici Blue, Taupe Brown
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f27291;
+  --cc-2: #547076;
+  --cc-3: #7a4456;
+}

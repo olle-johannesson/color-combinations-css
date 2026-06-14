@@ -1,0 +1,9 @@
+/* Combination 330: Olive Buff, Nile Blue, Salvia Blue, Green Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #c1c494;
+  --cc-2: #bce4e5;
+  --cc-3: #97acc8;
+  --cc-4: #099197;
+}

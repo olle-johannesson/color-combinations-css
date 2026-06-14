@@ -1,0 +1,9 @@
+/* Combination 251: Red, Yellow, Diamine Green, Slate Color
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #a72144;
+  --cc-2: #fff200;
+  --cc-3: #1a7444;
+  --cc-4: #34454c;
+}

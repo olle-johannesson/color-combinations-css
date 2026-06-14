@@ -1,0 +1,7 @@
+/* Combination 8: Cinnamon Rufous, Grayish Lavender - A
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #c27544;
+  --cc-2: #b5b1d8;
+}

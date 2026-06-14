@@ -1,0 +1,8 @@
+/* Combination 236: Khaki, Deep Lyons Blue, Purple Drab
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #bc892b;
+  --cc-2: #1c4286;
+  --cc-3: #84565b;
+}

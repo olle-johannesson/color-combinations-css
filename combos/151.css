@@ -1,0 +1,8 @@
+/* Combination 151: Sulpher Yellow, Yellow Orange, Vandar Poel's Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f5ecc2;
+  --cc-2: #f99d1b;
+  --cc-3: #064f6e;
+}

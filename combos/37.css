@@ -1,0 +1,7 @@
+/* Combination 37: Brick Red, Red Violet
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #a84222;
+  --cc-2: #59256a;
+}

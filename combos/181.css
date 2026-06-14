@@ -1,0 +1,8 @@
+/* Combination 181: Carmine Red, Violet, Cotinga Purple
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #a62c37;
+  --cc-2: #4f4086;
+  --cc-3: #501345;
+}

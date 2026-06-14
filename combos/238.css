@@ -1,0 +1,8 @@
+/* Combination 238: Ochraceous Salmon, Cotinga Purple, Warm Gray
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #d8a37b;
+  --cc-2: #501345;
+  --cc-3: #a1a39a;
+}

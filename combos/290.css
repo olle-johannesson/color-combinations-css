@@ -1,0 +1,9 @@
+/* Combination 290: Vistoris Lake, Pale Lemon Yellow, Lincoln Green, Cobalt Green
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #6d4145;
+  --cc-2: #ffefae;
+  --cc-3: #555832;
+  --cc-4: #96d1aa;
+}

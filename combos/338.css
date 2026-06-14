@@ -1,0 +1,9 @@
+/* Combination 338: Carmine Red, Orange Yellow, Dusky Green, Grayish Lavender - B
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #a62c37;
+  --cc-2: #fcb315;
+  --cc-3: #004f46;
+  --cc-4: #c0a9b3;
+}

@@ -1,0 +1,8 @@
+/* Combination 183: Deep Violet / Plumbeous, Veronia Purple, Red Violet
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #70727c;
+  --cc-2: #8c4c62;
+  --cc-3: #59256a;
+}

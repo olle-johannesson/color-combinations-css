@@ -1,0 +1,9 @@
+/* Combination 277: Spinel Red, Rosolanc Purple, Olive, Dull Violet Black
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f27291;
+  --cc-2: #b73f74;
+  --cc-3: #837e31;
+  --cc-4: #1e0e3f;
+}

@@ -1,0 +1,8 @@
+/* Combination 198: Burnt Sienna, Apricot Yellow, Green
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #ae5224;
+  --cc-2: #ffdd00;
+  --cc-3: #489b6e;
+}

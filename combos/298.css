@@ -1,0 +1,9 @@
+/* Combination 298: Raw Sienna, Lemon Yellow, Peach Red, Black
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #bb7125;
+  --cc-2: #f8ed43;
+  --cc-3: #f15a30;
+  --cc-4: #111314;
+}

@@ -1,0 +1,7 @@
+/* Combination 93: Citrine, Light Glaucous Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #b09f36;
+  --cc-2: #a5c8d1;
+}

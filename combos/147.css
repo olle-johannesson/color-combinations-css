@@ -1,0 +1,8 @@
+/* Combination 147: Spinel Red, Vandyke Red, Turquoise Green
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f27291;
+  --cc-2: #82241f;
+  --cc-3: #b5decc;
+}

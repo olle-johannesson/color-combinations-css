@@ -1,0 +1,9 @@
+/* Combination 287: Eosine Pink, Pyrite Yellow, Pale King's Blue, Calamine BLue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f37f94;
+  --cc-2: #cab356;
+  --cc-3: #a7d4e4;
+  --cc-4: #78cdd0;
+}

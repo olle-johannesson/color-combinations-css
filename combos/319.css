@@ -1,0 +1,9 @@
+/* Combination 319: Raw Sienna, Apricot Yellow, Yellow Orange, Cossack Green
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #bb7125;
+  --cc-2: #ffdd00;
+  --cc-3: #f99d1b;
+  --cc-4: #437742;
+}

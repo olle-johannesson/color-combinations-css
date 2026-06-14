@@ -1,0 +1,8 @@
+/* Combination 182: Raw Sienna, Vandyke Brown, Deep Indigo
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #bb7125;
+  --cc-2: #4b3317;
+  --cc-3: #051230;
+}

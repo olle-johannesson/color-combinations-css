@@ -1,0 +1,8 @@
+/* Combination 204: Rosolanc Purple, Cinnamon Rufous, Light Glaucous Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #b73f74;
+  --cc-2: #c27544;
+  --cc-3: #a5c8d1;
+}

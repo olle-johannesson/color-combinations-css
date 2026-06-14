@@ -1,0 +1,8 @@
+/* Combination 157: Pansy Purple, Olive Ocher, Olympic Blue
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #7d133a;
+  --cc-2: #d6b43e;
+  --cc-3: #5a82b3;
+}

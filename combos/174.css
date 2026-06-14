@@ -1,0 +1,8 @@
+/* Combination 174: Corinthian Pink, Grayish Lavender - B, Taupe Brown
+ * From "A Dictionary of Color Combinations" (Sanzo Wada).
+ * Loading this file alone sets the palette on :root. */
+:root {
+  --cc-1: #f8b6ba;
+  --cc-2: #c0a9b3;
+  --cc-3: #7a4456;
+}
