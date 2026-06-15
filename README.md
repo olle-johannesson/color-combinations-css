@@ -21,19 +21,19 @@ Or use it straight from a CDN — no install:
 ```html
 <link
   rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/color-combinations-css@1.0.0/color-combinations.css"
+  href="https://cdn.jsdelivr.net/npm/color-combinations-css@2.0.0/color-combinations.css"
 >
 ```
 
-(unpkg works too: `https://unpkg.com/color-combinations-css@1.0.0/color-combinations.css`)
+(unpkg works too: `https://unpkg.com/color-combinations-css@2.0.0/color-combinations.css`)
 
 ## Usage
 
-Set `data-combo="N"` (N = 1–348) on any element. Everything inside it inherits that
-combination's colors through CSS variables:
+Set `data-color-combination="N"` (N = 1–348) on any element. Everything inside it inherits
+that combination's colors through CSS variables:
 
 ```html
-<section data-combo="176">
+<section data-color-combination="176">
   <h1 style="color: var(--cc-1); background: var(--cc-2)">Hello</h1>
   <p style="color: var(--cc-3)">…</p>
 </section>
@@ -43,10 +43,10 @@ Each combination defines `--cc-1` … `--cc-N`, where N is 2, 3, or 4 depending 
 combination (120 are 2-color, 120 are 3-color, 108 are 4-color). Colors are ordered by
 their position on the original plate.
 
-Put `data-combo` on `<html>` to theme the whole page:
+Put `data-color-combination` on `<html>` to theme the whole page:
 
 ```html
-<html data-combo="42"> … </html>
+<html data-color-combination="42"> … </html>
 ```
 
 ### Load just one combination
@@ -58,7 +58,7 @@ page with ~200 bytes:
 ```html
 <link
   rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/color-combinations-css@1.1.0/combos/176.css"
+  href="https://cdn.jsdelivr.net/npm/color-combinations-css@2.0.0/combos/176.css"
 >
 ```
 
@@ -67,7 +67,7 @@ page with ~200 bytes:
 @import "color-combinations-css/combos/176.css";
 ```
 
-No `data-combo` attribute needed in this mode — the variables are global.
+No `data-color-combination` attribute needed in this mode — the variables are global.
 
 ### Aliasing to your own names
 

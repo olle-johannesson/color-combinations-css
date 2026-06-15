@@ -1,6 +1,6 @@
 {
   "name": "color-combinations-css",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "description": "The 348 color combinations from Sanzo Wada's A Dictionary of Color Combinations, as overridable CSS custom properties grouped by theme.",
   "style": "color-combinations.css",
   "exports": {

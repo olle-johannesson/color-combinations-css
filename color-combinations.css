@@ -3,7 +3,7 @@
  * 348 combinations from Sanzo Wada's book, as overridable custom properties.
  * Data: github.com/mattdesl/dictionary-of-colour-combinations (public domain).
  *
- * Usage:  <div data-combo="176"> ... </div>
+ * Usage:  <div data-color-combination="176"> ... </div>
  *         color: var(--cc-1); background: var(--cc-2);
  *
  * Each combo sets --cc-1 .. --cc-N (only as many as it has, 2–4 colors),
@@ -11,1729 +11,1729 @@
  * neutral and collision-free with framework tokens like --primary.
  */
 
-[data-combo="1"] {   /* English Red, Cerulian Blue */
+[data-color-combination="1"] {   /* English Red, Cerulian Blue */
   --cc-1: #d96629;
   --cc-2: #0093a5;
 }
-[data-combo="2"] {   /* Yellow Orange, Dark Tyrian Blue */
+[data-color-combination="2"] {   /* Yellow Orange, Dark Tyrian Blue */
   --cc-1: #f99d1b;
   --cc-2: #12354e;
 }
-[data-combo="3"] {   /* Raw Sienna, Pale Lemon Yellow */
+[data-color-combination="3"] {   /* Raw Sienna, Pale Lemon Yellow */
   --cc-1: #bb7125;
   --cc-2: #ffefae;
 }
-[data-combo="4"] {   /* Isabella Color, Red Violet */
+[data-color-combination="4"] {   /* Isabella Color, Red Violet */
   --cc-1: #c5a56e;
   --cc-2: #59256a;
 }
-[data-combo="5"] {   /* Cossack Green, Vandar Poel's Blue */
+[data-color-combination="5"] {   /* Cossack Green, Vandar Poel's Blue */
   --cc-1: #437742;
   --cc-2: #064f6e;
 }
-[data-combo="6"] {   /* Grenadine Pink, Deep Indigo */
+[data-color-combination="6"] {   /* Grenadine Pink, Deep Indigo */
   --cc-1: #f48067;
   --cc-2: #051230;
 }
-[data-combo="7"] {   /* Orange, Glaucous Green */
+[data-color-combination="7"] {   /* Orange, Glaucous Green */
   --cc-1: #f37420;
   --cc-2: #b4cdc2;
 }
-[data-combo="8"] {   /* Cinnamon Rufous, Grayish Lavender - A */
+[data-color-combination="8"] {   /* Cinnamon Rufous, Grayish Lavender - A */
   --cc-1: #c27544;
   --cc-2: #b5b1d8;
 }
-[data-combo="9"] {   /* Violet Red, Dull Blue Violet */
+[data-color-combination="9"] {   /* Violet Red, Dull Blue Violet */
   --cc-1: #642d5e;
   --cc-2: #80719e;
 }
-[data-combo="10"] {   /* Cinnamon Rufous, Dark Citrine */
+[data-color-combination="10"] {   /* Cinnamon Rufous, Dark Citrine */
   --cc-1: #c27544;
   --cc-2: #8b835b;
 }
-[data-combo="11"] {   /* Ivory Buff, Mineral Gray */
+[data-color-combination="11"] {   /* Ivory Buff, Mineral Gray */
   --cc-1: #ebd3a2;
   --cc-2: #a2b0ad;
 }
-[data-combo="12"] {   /* Isabella Color, Green Blue */
+[data-color-combination="12"] {   /* Isabella Color, Green Blue */
   --cc-1: #c5a56e;
   --cc-2: #099197;
 }
-[data-combo="13"] {   /* Raw Sienna, Veronia Purple */
+[data-color-combination="13"] {   /* Raw Sienna, Veronia Purple */
   --cc-1: #bb7125;
   --cc-2: #8c4c62;
 }
-[data-combo="14"] {   /* Spinel Red, Naples Yellow */
+[data-color-combination="14"] {   /* Spinel Red, Naples Yellow */
   --cc-1: #f27291;
   --cc-2: #fbe6a0;
 }
-[data-combo="15"] {   /* Benzol Green, Grayish Lavender - A */
+[data-color-combination="15"] {   /* Benzol Green, Grayish Lavender - A */
   --cc-1: #00978d;
   --cc-2: #b5b1d8;
 }
-[data-combo="16"] {   /* Vandyke Red, Pale King's Blue */
+[data-color-combination="16"] {   /* Vandyke Red, Pale King's Blue */
   --cc-1: #82241f;
   --cc-2: #a7d4e4;
 }
-[data-combo="17"] {   /* Eugenia Red | B, Sea Green */
+[data-color-combination="17"] {   /* Eugenia Red | B, Sea Green */
   --cc-1: #da525d;
   --cc-2: #00b49b;
 }
-[data-combo="18"] {   /* Fawn, Dusky Madder Violet */
+[data-color-combination="18"] {   /* Fawn, Dusky Madder Violet */
   --cc-1: #d1b0a7;
   --cc-2: #4e1d4c;
 }
-[data-combo="19"] {   /* Mars Brown Tobacco, Night Green */
+[data-color-combination="19"] {   /* Mars Brown Tobacco, Night Green */
   --cc-1: #653514;
   --cc-2: #87c540;
 }
-[data-combo="20"] {   /* Calamine BLue, Laelia Pink */
+[data-color-combination="20"] {   /* Calamine BLue, Laelia Pink */
   --cc-1: #78cdd0;
   --cc-2: #ca92a8;
 }
-[data-combo="21"] {   /* Grenadine Pink, Sea Green */
+[data-color-combination="21"] {   /* Grenadine Pink, Sea Green */
   --cc-1: #f48067;
   --cc-2: #00b49b;
 }
-[data-combo="22"] {   /* Yellow, Deep Lyons Blue */
+[data-color-combination="22"] {   /* Yellow, Deep Lyons Blue */
   --cc-1: #fff200;
   --cc-2: #1c4286;
 }
-[data-combo="23"] {   /* Cinnamon Buff, Light Mauve */
+[data-color-combination="23"] {   /* Cinnamon Buff, Light Mauve */
   --cc-1: #fdc57e;
   --cc-2: #9a72aa;
 }
-[data-combo="24"] {   /* Sepia, Veronia Purple */
+[data-color-combination="24"] {   /* Sepia, Veronia Purple */
   --cc-1: #644b1e;
   --cc-2: #8c4c62;
 }
-[data-combo="25"] {   /* Etruscan Red, Nile Blue */
+[data-color-combination="25"] {   /* Etruscan Red, Nile Blue */
   --cc-1: #c55347;
   --cc-2: #bce4e5;
 }
-[data-combo="26"] {   /* Golden Yellow, Pale Raw Umber */
+[data-color-combination="26"] {   /* Golden Yellow, Pale Raw Umber */
   --cc-1: #f3a257;
   --cc-2: #71502f;
 }
-[data-combo="27"] {   /* Corinthian Pink, Slate Color */
+[data-color-combination="27"] {   /* Corinthian Pink, Slate Color */
   --cc-1: #f8b6ba;
   --cc-2: #34454c;
 }
-[data-combo="28"] {   /* Madder Brown, Deep Indigo */
+[data-color-combination="28"] {   /* Madder Brown, Deep Indigo */
   --cc-1: #762c19;
   --cc-2: #051230;
 }
-[data-combo="29"] {   /* Krongbergs Green, Salvia Blue */
+[data-color-combination="29"] {   /* Krongbergs Green, Salvia Blue */
   --cc-1: #84875e;
   --cc-2: #97acc8;
 }
-[data-combo="30"] {   /* Pompeian Red, Mineral Gray */
+[data-color-combination="30"] {   /* Pompeian Red, Mineral Gray */
   --cc-1: #ab2439;
   --cc-2: #a2b0ad;
 }
-[data-combo="31"] {   /* Red Orange, Pale Lemon Yellow */
+[data-color-combination="31"] {   /* Red Orange, Pale Lemon Yellow */
   --cc-1: #dd4027;
   --cc-2: #ffefae;
 }
-[data-combo="32"] {   /* Ochraceous Salmon, Night Green */
+[data-color-combination="32"] {   /* Ochraceous Salmon, Night Green */
   --cc-1: #d8a37b;
   --cc-2: #87c540;
 }
-[data-combo="33"] {   /* Raw Sienna, Slate Color */
+[data-color-combination="33"] {   /* Raw Sienna, Slate Color */
   --cc-1: #bb7125;
   --cc-2: #34454c;
 }
-[data-combo="34"] {   /* Eosine Pink, Neutral Gray */
+[data-color-combination="34"] {   /* Eosine Pink, Neutral Gray */
   --cc-1: #f37f94;
   --cc-2: #b6bfc1;
 }
-[data-combo="35"] {   /* Light Brown Drab, Carmine Red */
+[data-color-combination="35"] {   /* Light Brown Drab, Carmine Red */
   --cc-1: #b59392;
   --cc-2: #a62c37;
 }
-[data-combo="36"] {   /* Sulphine Yellow, Turquoise Green */
+[data-color-combination="36"] {   /* Sulphine Yellow, Turquoise Green */
   --cc-1: #c19f2c;
   --cc-2: #b5decc;
 }
-[data-combo="37"] {   /* Brick Red, Red Violet */
+[data-color-combination="37"] {   /* Brick Red, Red Violet */
   --cc-1: #a84222;
   --cc-2: #59256a;
 }
-[data-combo="38"] {   /* Diamine Green, Deep Lyons Blue */
+[data-color-combination="38"] {   /* Diamine Green, Deep Lyons Blue */
   --cc-1: #1a7444;
   --cc-2: #1c4286;
 }
-[data-combo="39"] {   /* Carmine, Helvetia Blue */
+[data-color-combination="39"] {   /* Carmine, Helvetia Blue */
   --cc-1: #cc1236;
   --cc-2: #005b8d;
 }
-[data-combo="40"] {   /* Vinaceous Tawny, Citron Yellow */
+[data-color-combination="40"] {   /* Vinaceous Tawny, Citron Yellow */
   --cc-1: #c56127;
   --cc-2: #b2b73e;
 }
-[data-combo="41"] {   /* Dark Citrine, Calamine BLue */
+[data-color-combination="41"] {   /* Dark Citrine, Calamine BLue */
   --cc-1: #8b835b;
   --cc-2: #78cdd0;
 }
-[data-combo="42"] {   /* Yellow Ocher, Violet */
+[data-color-combination="42"] {   /* Yellow Ocher, Violet */
   --cc-1: #e2b540;
   --cc-2: #4f4086;
 }
-[data-combo="43"] {   /* Corinthian Pink, Aconite Violet */
+[data-color-combination="43"] {   /* Corinthian Pink, Aconite Violet */
   --cc-1: #f8b6ba;
   --cc-2: #a36aa5;
 }
-[data-combo="44"] {   /* Light Porcelain Green, Olympic Blue */
+[data-color-combination="44"] {   /* Light Porcelain Green, Olympic Blue */
   --cc-1: #00908a;
   --cc-2: #5a82b3;
 }
-[data-combo="45"] {   /* Seashell Pink, Lemon Yellow */
+[data-color-combination="45"] {   /* Seashell Pink, Lemon Yellow */
   --cc-1: #fdd4bd;
   --cc-2: #f8ed43;
 }
-[data-combo="46"] {   /* Orange, Black */
+[data-color-combination="46"] {   /* Orange, Black */
   --cc-1: #f37420;
   --cc-2: #111314;
 }
-[data-combo="47"] {   /* Etruscan Red, Grayish Lavender - B */
+[data-color-combination="47"] {   /* Etruscan Red, Grayish Lavender - B */
   --cc-1: #c55347;
   --cc-2: #c0a9b3;
 }
-[data-combo="48"] {   /* Rosolanc Purple, Helvetia Blue */
+[data-color-combination="48"] {   /* Rosolanc Purple, Helvetia Blue */
   --cc-1: #b73f74;
   --cc-2: #005b8d;
 }
-[data-combo="49"] {   /* Pale King's Blue, Blue */
+[data-color-combination="49"] {   /* Pale King's Blue, Blue */
   --cc-1: #a7d4e4;
   --cc-2: #006eb8;
 }
-[data-combo="50"] {   /* Ivory Buff, Dusky Madder Violet */
+[data-color-combination="50"] {   /* Ivory Buff, Dusky Madder Violet */
   --cc-1: #ebd3a2;
   --cc-2: #4e1d4c;
 }
-[data-combo="51"] {   /* Carmine Red, Blue */
+[data-color-combination="51"] {   /* Carmine Red, Blue */
   --cc-1: #a62c37;
   --cc-2: #006eb8;
 }
-[data-combo="52"] {   /* Sulpher Yellow, Black */
+[data-color-combination="52"] {   /* Sulpher Yellow, Black */
   --cc-1: #f5ecc2;
   --cc-2: #111314;
 }
-[data-combo="53"] {   /* Yellow Orange, Dusky Madder Violet */
+[data-color-combination="53"] {   /* Yellow Orange, Dusky Madder Violet */
   --cc-1: #f99d1b;
   --cc-2: #4e1d4c;
 }
-[data-combo="54"] {   /* Benzol Green, Light Glaucous Blue */
+[data-color-combination="54"] {   /* Benzol Green, Light Glaucous Blue */
   --cc-1: #00978d;
   --cc-2: #a5c8d1;
 }
-[data-combo="55"] {   /* Old Rose, White */
+[data-color-combination="55"] {   /* Old Rose, White */
   --cc-1: #d46d7a;
   --cc-2: #ffffff;
 }
-[data-combo="56"] {   /* Grayish Lavender - B, Violet */
+[data-color-combination="56"] {   /* Grayish Lavender - B, Violet */
   --cc-1: #c0a9b3;
   --cc-2: #4f4086;
 }
-[data-combo="57"] {   /* Taupe Brown, Slate Color */
+[data-color-combination="57"] {   /* Taupe Brown, Slate Color */
   --cc-1: #7a4456;
   --cc-2: #34454c;
 }
-[data-combo="58"] {   /* Hay's Russet, Sea Green */
+[data-color-combination="58"] {   /* Hay's Russet, Sea Green */
   --cc-1: #793327;
   --cc-2: #00b49b;
 }
-[data-combo="59"] {   /* Eosine Pink, Citrine */
+[data-color-combination="59"] {   /* Eosine Pink, Citrine */
   --cc-1: #f37f94;
   --cc-2: #b09f36;
 }
-[data-combo="60"] {   /* Pale Lemon Yellow, Dark Tyrian Blue */
+[data-color-combination="60"] {   /* Pale Lemon Yellow, Dark Tyrian Blue */
   --cc-1: #ffefae;
   --cc-2: #12354e;
 }
-[data-combo="61"] {   /* Light Green Yellow, Cotinga Purple */
+[data-color-combination="61"] {   /* Light Green Yellow, Cotinga Purple */
   --cc-1: #c7d14f;
   --cc-2: #501345;
 }
-[data-combo="62"] {   /* Yellow, Black */
+[data-color-combination="62"] {   /* Yellow, Black */
   --cc-1: #fff200;
   --cc-2: #111314;
 }
-[data-combo="63"] {   /* Vistoris Lake, Cerulian Blue */
+[data-color-combination="63"] {   /* Vistoris Lake, Cerulian Blue */
   --cc-1: #6d4145;
   --cc-2: #0093a5;
 }
-[data-combo="64"] {   /* Aconite Violet, Dark Soft Violet */
+[data-color-combination="64"] {   /* Aconite Violet, Dark Soft Violet */
   --cc-1: #a36aa5;
   --cc-2: #66629c;
 }
-[data-combo="65"] {   /* Sulphine Yellow, Calamine BLue */
+[data-color-combination="65"] {   /* Sulphine Yellow, Calamine BLue */
   --cc-1: #c19f2c;
   --cc-2: #78cdd0;
 }
-[data-combo="66"] {   /* Olive Ocher, Olive Green */
+[data-color-combination="66"] {   /* Olive Ocher, Olive Green */
   --cc-1: #d6b43e;
   --cc-2: #6b7140;
 }
-[data-combo="67"] {   /* Olympic Blue, Dark Tyrian Blue */
+[data-color-combination="67"] {   /* Olympic Blue, Dark Tyrian Blue */
   --cc-1: #5a82b3;
   --cc-2: #12354e;
 }
-[data-combo="68"] {   /* Light Brown Drab, Yellow */
+[data-color-combination="68"] {   /* Light Brown Drab, Yellow */
   --cc-1: #b59392;
   --cc-2: #fff200;
 }
-[data-combo="69"] {   /* Warm Gray, Black */
+[data-color-combination="69"] {   /* Warm Gray, Black */
   --cc-1: #a1a39a;
   --cc-2: #111314;
 }
-[data-combo="70"] {   /* Raw Sienna, Lincoln Green */
+[data-color-combination="70"] {   /* Raw Sienna, Lincoln Green */
   --cc-1: #bb7125;
   --cc-2: #555832;
 }
-[data-combo="71"] {   /* Pompeian Red, Ochraceous Salmon */
+[data-color-combination="71"] {   /* Pompeian Red, Ochraceous Salmon */
   --cc-1: #ab2439;
   --cc-2: #d8a37b;
 }
-[data-combo="72"] {   /* Sulpher Yellow, Pale King's Blue */
+[data-color-combination="72"] {   /* Sulpher Yellow, Pale King's Blue */
   --cc-1: #f5ecc2;
   --cc-2: #a7d4e4;
 }
-[data-combo="73"] {   /* Pale Raw Umber, Rainette Green */
+[data-color-combination="73"] {   /* Pale Raw Umber, Rainette Green */
   --cc-1: #71502f;
   --cc-2: #8fa071;
 }
-[data-combo="74"] {   /* Turquoise Green, Green Blue */
+[data-color-combination="74"] {   /* Turquoise Green, Green Blue */
   --cc-1: #b5decc;
   --cc-2: #099197;
 }
-[data-combo="75"] {   /* Pale King's Blue, Violet Blue */
+[data-color-combination="75"] {   /* Pale King's Blue, Violet Blue */
   --cc-1: #a7d4e4;
   --cc-2: #40456a;
 }
-[data-combo="76"] {   /* Pale Lemon Yellow, Warm Gray */
+[data-color-combination="76"] {   /* Pale Lemon Yellow, Warm Gray */
   --cc-1: #ffefae;
   --cc-2: #a1a39a;
 }
-[data-combo="77"] {   /* Eugenia Red | B, Vandar Poel's Blue */
+[data-color-combination="77"] {   /* Eugenia Red | B, Vandar Poel's Blue */
   --cc-1: #da525d;
   --cc-2: #064f6e;
 }
-[data-combo="78"] {   /* Pinkish Cinnamon, Venice Green */
+[data-color-combination="78"] {   /* Pinkish Cinnamon, Venice Green */
   --cc-1: #eeb480;
   --cc-2: #62c6bf;
 }
-[data-combo="79"] {   /* Madder Brown, Green Blue */
+[data-color-combination="79"] {   /* Madder Brown, Green Blue */
   --cc-1: #762c19;
   --cc-2: #099197;
 }
-[data-combo="80"] {   /* Sulpher Yellow, Light Mauve */
+[data-color-combination="80"] {   /* Sulpher Yellow, Light Mauve */
   --cc-1: #f5ecc2;
   --cc-2: #9a72aa;
 }
-[data-combo="81"] {   /* Golden Yellow, Warm Gray */
+[data-color-combination="81"] {   /* Golden Yellow, Warm Gray */
   --cc-1: #f3a257;
   --cc-2: #a1a39a;
 }
-[data-combo="82"] {   /* Hay's Russet, Dusky Madder Violet */
+[data-color-combination="82"] {   /* Hay's Russet, Dusky Madder Violet */
   --cc-1: #793327;
   --cc-2: #4e1d4c;
 }
-[data-combo="83"] {   /* Olive Buff, Violet Blue */
+[data-color-combination="83"] {   /* Olive Buff, Violet Blue */
   --cc-1: #c1c494;
   --cc-2: #40456a;
 }
-[data-combo="84"] {   /* Seashell Pink, Deep Slate Green */
+[data-color-combination="84"] {   /* Seashell Pink, Deep Slate Green */
   --cc-1: #fdd4bd;
   --cc-2: #112f2c;
 }
-[data-combo="85"] {   /* Vinaceous Tawny, Antwarp Blue */
+[data-color-combination="85"] {   /* Vinaceous Tawny, Antwarp Blue */
   --cc-1: #c56127;
   --cc-2: #007190;
 }
-[data-combo="86"] {   /* Raw Sienna, Sea Green */
+[data-color-combination="86"] {   /* Raw Sienna, Sea Green */
   --cc-1: #bb7125;
   --cc-2: #00b49b;
 }
-[data-combo="87"] {   /* Corinthian Pink, Citron Yellow */
+[data-color-combination="87"] {   /* Corinthian Pink, Citron Yellow */
   --cc-1: #f8b6ba;
   --cc-2: #b2b73e;
 }
-[data-combo="88"] {   /* Seashell Pink, Blue */
+[data-color-combination="88"] {   /* Seashell Pink, Blue */
   --cc-1: #fdd4bd;
   --cc-2: #006eb8;
 }
-[data-combo="89"] {   /* Yellow Orange, Violet Blue */
+[data-color-combination="89"] {   /* Yellow Orange, Violet Blue */
   --cc-1: #f99d1b;
   --cc-2: #40456a;
 }
-[data-combo="90"] {   /* Eosine Pink, Aconite Violet */
+[data-color-combination="90"] {   /* Eosine Pink, Aconite Violet */
   --cc-1: #f37f94;
   --cc-2: #a36aa5;
 }
-[data-combo="91"] {   /* Vistoris Lake, Orange Rufous */
+[data-color-combination="91"] {   /* Vistoris Lake, Orange Rufous */
   --cc-1: #6d4145;
   --cc-2: #c16b27;
 }
-[data-combo="92"] {   /* Coral Red, Benzol Green */
+[data-color-combination="92"] {   /* Coral Red, Benzol Green */
   --cc-1: #f58e84;
   --cc-2: #00978d;
 }
-[data-combo="93"] {   /* Citrine, Light Glaucous Blue */
+[data-color-combination="93"] {   /* Citrine, Light Glaucous Blue */
   --cc-1: #b09f36;
   --cc-2: #a5c8d1;
 }
-[data-combo="94"] {   /* Ivory Buff, Dusky Green */
+[data-color-combination="94"] {   /* Ivory Buff, Dusky Green */
   --cc-1: #ebd3a2;
   --cc-2: #004f46;
 }
-[data-combo="95"] {   /* Hay's Russet, Dull Violet Black */
+[data-color-combination="95"] {   /* Hay's Russet, Dull Violet Black */
   --cc-1: #793327;
   --cc-2: #1e0e3f;
 }
-[data-combo="96"] {   /* Yellow Ocher, Olive */
+[data-color-combination="96"] {   /* Yellow Ocher, Olive */
   --cc-1: #e2b540;
   --cc-2: #837e31;
 }
-[data-combo="97"] {   /* Corinthian Pink, Etruscan Red */
+[data-color-combination="97"] {   /* Corinthian Pink, Etruscan Red */
   --cc-1: #f8b6ba;
   --cc-2: #c55347;
 }
-[data-combo="98"] {   /* Madder Brown, Violet Blue */
+[data-color-combination="98"] {   /* Madder Brown, Violet Blue */
   --cc-1: #762c19;
   --cc-2: #40456a;
 }
-[data-combo="99"] {   /* Pale Lemon Yellow, Cerulian Blue */
+[data-color-combination="99"] {   /* Pale Lemon Yellow, Cerulian Blue */
   --cc-1: #ffefae;
   --cc-2: #0093a5;
 }
-[data-combo="100"] {   /* Buffy Citrine, Dull Blue Violet */
+[data-color-combination="100"] {   /* Buffy Citrine, Dull Blue Violet */
   --cc-1: #96874d;
   --cc-2: #80719e;
 }
-[data-combo="101"] {   /* Cameo Pink, Deep Lyons Blue */
+[data-color-combination="101"] {   /* Cameo Pink, Deep Lyons Blue */
   --cc-1: #e0b3b6;
   --cc-2: #1c4286;
 }
-[data-combo="102"] {   /* Ivory Buff, Orange Rufous */
+[data-color-combination="102"] {   /* Ivory Buff, Orange Rufous */
   --cc-1: #ebd3a2;
   --cc-2: #c16b27;
 }
-[data-combo="103"] {   /* Cinnamon Rufous, Dusky Madder Violet */
+[data-color-combination="103"] {   /* Cinnamon Rufous, Dusky Madder Violet */
   --cc-1: #c27544;
   --cc-2: #4e1d4c;
 }
-[data-combo="104"] {   /* Carmine Red, Sulpher Yellow */
+[data-color-combination="104"] {   /* Carmine Red, Sulpher Yellow */
   --cc-1: #a62c37;
   --cc-2: #f5ecc2;
 }
-[data-combo="105"] {   /* Cameo Pink, Chromium Green */
+[data-color-combination="105"] {   /* Cameo Pink, Chromium Green */
   --cc-1: #e0b3b6;
   --cc-2: #719470;
 }
-[data-combo="106"] {   /* Antwarp Blue, Dull Violet Black */
+[data-color-combination="106"] {   /* Antwarp Blue, Dull Violet Black */
   --cc-1: #007190;
   --cc-2: #1e0e3f;
 }
-[data-combo="107"] {   /* Apricot Yellow, Light Grayish Olive */
+[data-color-combination="107"] {   /* Apricot Yellow, Light Grayish Olive */
   --cc-1: #ffdd00;
   --cc-2: #848061;
 }
-[data-combo="108"] {   /* Eosine Pink, Brick Red */
+[data-color-combination="108"] {   /* Eosine Pink, Brick Red */
   --cc-1: #f37f94;
   --cc-2: #a84222;
 }
-[data-combo="109"] {   /* Pale Lemon Yellow, Blackish Olive */
+[data-color-combination="109"] {   /* Pale Lemon Yellow, Blackish Olive */
   --cc-1: #ffefae;
   --cc-2: #42533e;
 }
-[data-combo="110"] {   /* Brown, Vandyke Brown */
+[data-color-combination="110"] {   /* Brown, Vandyke Brown */
   --cc-1: #7c4226;
   --cc-2: #4b3317;
 }
-[data-combo="111"] {   /* Pale Lemon Yellow, Yellow Green */
+[data-color-combination="111"] {   /* Pale Lemon Yellow, Yellow Green */
   --cc-1: #ffefae;
   --cc-2: #afd472;
 }
-[data-combo="112"] {   /* Grenadine Pink, Black */
+[data-color-combination="112"] {   /* Grenadine Pink, Black */
   --cc-1: #f48067;
   --cc-2: #111314;
 }
-[data-combo="113"] {   /* Seashell Pink, Vandyke Brown */
+[data-color-combination="113"] {   /* Seashell Pink, Vandyke Brown */
   --cc-1: #fdd4bd;
   --cc-2: #4b3317;
 }
-[data-combo="114"] {   /* Orange Yellow, Antwarp Blue */
+[data-color-combination="114"] {   /* Orange Yellow, Antwarp Blue */
   --cc-1: #fcb315;
   --cc-2: #007190;
 }
-[data-combo="115"] {   /* Naples Yellow, Peach Red */
+[data-color-combination="115"] {   /* Naples Yellow, Peach Red */
   --cc-1: #fbe6a0;
   --cc-2: #f15a30;
 }
-[data-combo="116"] {   /* Cameo Pink, Blue Violet */
+[data-color-combination="116"] {   /* Cameo Pink, Blue Violet */
   --cc-1: #e0b3b6;
   --cc-2: #6450a1;
 }
-[data-combo="117"] {   /* Carmine, Black */
+[data-color-combination="117"] {   /* Carmine, Black */
   --cc-1: #cc1236;
   --cc-2: #111314;
 }
-[data-combo="118"] {   /* Yellow Ocher, Vandyke Brown */
+[data-color-combination="118"] {   /* Yellow Ocher, Vandyke Brown */
   --cc-1: #e2b540;
   --cc-2: #4b3317;
 }
-[data-combo="119"] {   /* Light Glaucous Blue, Dark Tyrian Blue */
+[data-color-combination="119"] {   /* Light Glaucous Blue, Dark Tyrian Blue */
   --cc-1: #a5c8d1;
   --cc-2: #12354e;
 }
-[data-combo="120"] {   /* Cameo Pink, Pompeian Red */
+[data-color-combination="120"] {   /* Cameo Pink, Pompeian Red */
   --cc-1: #e0b3b6;
   --cc-2: #ab2439;
 }
-[data-combo="121"] {   /* Brown, Ochraceous Salmon, Lincoln Green */
+[data-color-combination="121"] {   /* Brown, Ochraceous Salmon, Lincoln Green */
   --cc-1: #7c4226;
   --cc-2: #d8a37b;
   --cc-3: #555832;
 }
-[data-combo="122"] {   /* Carmine, Cream Yellow, Benzol Green */
+[data-color-combination="122"] {   /* Carmine, Cream Yellow, Benzol Green */
   --cc-1: #cc1236;
   --cc-2: #fdbf68;
   --cc-3: #00978d;
 }
-[data-combo="123"] {   /* Coral Red, Lemon Yellow, Taupe Brown */
+[data-color-combination="123"] {   /* Coral Red, Lemon Yellow, Taupe Brown */
   --cc-1: #f58e84;
   --cc-2: #f8ed43;
   --cc-3: #7a4456;
 }
-[data-combo="124"] {   /* Pale Burnt Lake, Yellow Ocher, Olive Yellow */
+[data-color-combination="124"] {   /* Pale Burnt Lake, Yellow Ocher, Olive Yellow */
   --cc-1: #802626;
   --cc-2: #e2b540;
   --cc-3: #a6a159;
 }
-[data-combo="125"] {   /* Fawn, Cerulian Blue, Violet Blue */
+[data-color-combination="125"] {   /* Fawn, Cerulian Blue, Violet Blue */
   --cc-1: #d1b0a7;
   --cc-2: #0093a5;
   --cc-3: #40456a;
 }
-[data-combo="126"] {   /* Ivory Buff, Yellow Ocher, Deep Lyons Blue */
+[data-color-combination="126"] {   /* Ivory Buff, Yellow Ocher, Deep Lyons Blue */
   --cc-1: #ebd3a2;
   --cc-2: #e2b540;
   --cc-3: #1c4286;
 }
-[data-combo="127"] {   /* Cinnamon Buff, Pistachio Green, Dark Soft Violet */
+[data-color-combination="127"] {   /* Cinnamon Buff, Pistachio Green, Dark Soft Violet */
   --cc-1: #fdc57e;
   --cc-2: #648f7b;
   --cc-3: #66629c;
 }
-[data-combo="128"] {   /* Corinthian Pink, Venice Green, Light Mauve */
+[data-color-combination="128"] {   /* Corinthian Pink, Venice Green, Light Mauve */
   --cc-1: #f8b6ba;
   --cc-2: #62c6bf;
   --cc-3: #9a72aa;
 }
-[data-combo="129"] {   /* Apricot Yellow, Khaki, Salvia Blue */
+[data-color-combination="129"] {   /* Apricot Yellow, Khaki, Salvia Blue */
   --cc-1: #ffdd00;
   --cc-2: #bc892b;
   --cc-3: #97acc8;
 }
-[data-combo="130"] {   /* Raw Sienna, Carmine Red, Violet */
+[data-color-combination="130"] {   /* Raw Sienna, Carmine Red, Violet */
   --cc-1: #bb7125;
   --cc-2: #a62c37;
   --cc-3: #4f4086;
 }
-[data-combo="131"] {   /* Raw Sienna, English Red, Peacock Blue */
+[data-color-combination="131"] {   /* Raw Sienna, English Red, Peacock Blue */
   --cc-1: #bb7125;
   --cc-2: #d96629;
   --cc-3: #00939b;
 }
-[data-combo="132"] {   /* Sulpher Yellow, Golden Yellow, Citrine */
+[data-color-combination="132"] {   /* Sulpher Yellow, Golden Yellow, Citrine */
   --cc-1: #f5ecc2;
   --cc-2: #f3a257;
   --cc-3: #b09f36;
 }
-[data-combo="133"] {   /* Vandyke Red, Citrine, Sea Green */
+[data-color-combination="133"] {   /* Vandyke Red, Citrine, Sea Green */
   --cc-1: #82241f;
   --cc-2: #b09f36;
   --cc-3: #00b49b;
 }
-[data-combo="134"] {   /* Eosine Pink, Light Mauve, Red Violet */
+[data-color-combination="134"] {   /* Eosine Pink, Light Mauve, Red Violet */
   --cc-1: #f37f94;
   --cc-2: #9a72aa;
   --cc-3: #59256a;
 }
-[data-combo="135"] {   /* Sulpher Yellow, Cossack Green, Salvia Blue */
+[data-color-combination="135"] {   /* Sulpher Yellow, Cossack Green, Salvia Blue */
   --cc-1: #f5ecc2;
   --cc-2: #437742;
   --cc-3: #97acc8;
 }
-[data-combo="136"] {   /* Scarlet, Dull Viridian Green, Red Violet */
+[data-color-combination="136"] {   /* Scarlet, Dull Viridian Green, Red Violet */
   --cc-1: #cb2f43;
   --cc-2: #009465;
   --cc-3: #59256a;
 }
-[data-combo="137"] {   /* Etruscan Red, Cinnamon Buff, Pistachio Green */
+[data-color-combination="137"] {   /* Etruscan Red, Cinnamon Buff, Pistachio Green */
   --cc-1: #c55347;
   --cc-2: #fdc57e;
   --cc-3: #648f7b;
 }
-[data-combo="138"] {   /* Golden Yellow, Lemon Yellow, Venice Green */
+[data-color-combination="138"] {   /* Golden Yellow, Lemon Yellow, Venice Green */
   --cc-1: #f3a257;
   --cc-2: #f8ed43;
   --cc-3: #62c6bf;
 }
-[data-combo="139"] {   /* Salvia Blue, Deep Indigo, Neutral Gray */
+[data-color-combination="139"] {   /* Salvia Blue, Deep Indigo, Neutral Gray */
   --cc-1: #97acc8;
   --cc-2: #051230;
   --cc-3: #b6bfc1;
 }
-[data-combo="140"] {   /* Golden Yellow, Antwarp Blue, Slate Color */
+[data-color-combination="140"] {   /* Golden Yellow, Antwarp Blue, Slate Color */
   --cc-1: #f3a257;
   --cc-2: #007190;
   --cc-3: #34454c;
 }
-[data-combo="141"] {   /* Orange, Yellow Green, Dark Tyrian Blue */
+[data-color-combination="141"] {   /* Orange, Yellow Green, Dark Tyrian Blue */
   --cc-1: #f37420;
   --cc-2: #afd472;
   --cc-3: #12354e;
 }
-[data-combo="142"] {   /* Hydrangea Red, Sulphine Yellow, Salvia Blue */
+[data-color-combination="142"] {   /* Hydrangea Red, Sulphine Yellow, Salvia Blue */
   --cc-1: #a94151;
   --cc-2: #c19f2c;
   --cc-3: #97acc8;
 }
-[data-combo="143"] {   /* Blue, Lilac, Warm Gray */
+[data-color-combination="143"] {   /* Blue, Lilac, Warm Gray */
   --cc-1: #006eb8;
   --cc-2: #b984af;
   --cc-3: #a1a39a;
 }
-[data-combo="144"] {   /* Rosolanc Purple, Orange, Black */
+[data-color-combination="144"] {   /* Rosolanc Purple, Orange, Black */
   --cc-1: #b73f74;
   --cc-2: #f37420;
   --cc-3: #111314;
 }
-[data-combo="145"] {   /* Brown, Citron Yellow, Dull Violet Black */
+[data-color-combination="145"] {   /* Brown, Citron Yellow, Dull Violet Black */
   --cc-1: #7c4226;
   --cc-2: #b2b73e;
   --cc-3: #1e0e3f;
 }
-[data-combo="146"] {   /* Khaki, Deep Grayish Olive, Diamine Green */
+[data-color-combination="146"] {   /* Khaki, Deep Grayish Olive, Diamine Green */
   --cc-1: #bc892b;
   --cc-2: #635a3a;
   --cc-3: #1a7444;
 }
-[data-combo="147"] {   /* Spinel Red, Vandyke Red, Turquoise Green */
+[data-color-combination="147"] {   /* Spinel Red, Vandyke Red, Turquoise Green */
   --cc-1: #f27291;
   --cc-2: #82241f;
   --cc-3: #b5decc;
 }
-[data-combo="148"] {   /* Olive Ocher, Orange Yellow, Cerulian Blue */
+[data-color-combination="148"] {   /* Olive Ocher, Orange Yellow, Cerulian Blue */
   --cc-1: #d6b43e;
   --cc-2: #fcb315;
   --cc-3: #0093a5;
 }
-[data-combo="149"] {   /* Olive Ocher, Orange, Deep Slate Green */
+[data-color-combination="149"] {   /* Olive Ocher, Orange, Deep Slate Green */
   --cc-1: #d6b43e;
   --cc-2: #f37420;
   --cc-3: #112f2c;
 }
-[data-combo="150"] {   /* Seashell Pink, Citron Yellow, Glaucous Green */
+[data-color-combination="150"] {   /* Seashell Pink, Citron Yellow, Glaucous Green */
   --cc-1: #fdd4bd;
   --cc-2: #b2b73e;
   --cc-3: #b4cdc2;
 }
-[data-combo="151"] {   /* Sulpher Yellow, Yellow Orange, Vandar Poel's Blue */
+[data-color-combination="151"] {   /* Sulpher Yellow, Yellow Orange, Vandar Poel's Blue */
   --cc-1: #f5ecc2;
   --cc-2: #f99d1b;
   --cc-3: #064f6e;
 }
-[data-combo="152"] {   /* Etruscan Red, Hay's Russet, Light Glaucous Blue */
+[data-color-combination="152"] {   /* Etruscan Red, Hay's Russet, Light Glaucous Blue */
   --cc-1: #c55347;
   --cc-2: #793327;
   --cc-3: #a5c8d1;
 }
-[data-combo="153"] {   /* Eosine Pink, Orange Yellow, Citron Yellow */
+[data-color-combination="153"] {   /* Eosine Pink, Orange Yellow, Citron Yellow */
   --cc-1: #f37f94;
   --cc-2: #fcb315;
   --cc-3: #b2b73e;
 }
-[data-combo="154"] {   /* Carmine, Yellow, Blue */
+[data-color-combination="154"] {   /* Carmine, Yellow, Blue */
   --cc-1: #cc1236;
   --cc-2: #fff200;
   --cc-3: #006eb8;
 }
-[data-combo="155"] {   /* Jasper Red, Benzol Green, Deep Indigo */
+[data-color-combination="155"] {   /* Jasper Red, Benzol Green, Deep Indigo */
   --cc-1: #eb5324;
   --cc-2: #00978d;
   --cc-3: #051230;
 }
-[data-combo="156"] {   /* Olive Ocher, Cobalt Green, Violet */
+[data-color-combination="156"] {   /* Olive Ocher, Cobalt Green, Violet */
   --cc-1: #d6b43e;
   --cc-2: #96d1aa;
   --cc-3: #4f4086;
 }
-[data-combo="157"] {   /* Pansy Purple, Olive Ocher, Olympic Blue */
+[data-color-combination="157"] {   /* Pansy Purple, Olive Ocher, Olympic Blue */
   --cc-1: #7d133a;
   --cc-2: #d6b43e;
   --cc-3: #5a82b3;
 }
-[data-combo="158"] {   /* Lemon Yellow, Cinnamon Rufous, Night Green */
+[data-color-combination="158"] {   /* Lemon Yellow, Cinnamon Rufous, Night Green */
   --cc-1: #f8ed43;
   --cc-2: #c27544;
   --cc-3: #87c540;
 }
-[data-combo="159"] {   /* Khaki, Calamine BLue, Grayish Lavender - A */
+[data-color-combination="159"] {   /* Khaki, Calamine BLue, Grayish Lavender - A */
   --cc-1: #bc892b;
   --cc-2: #78cdd0;
   --cc-3: #b5b1d8;
 }
-[data-combo="160"] {   /* Sulphine Yellow, Pale Raw Umber, Dark Medici Blue */
+[data-color-combination="160"] {   /* Sulphine Yellow, Pale Raw Umber, Dark Medici Blue */
   --cc-1: #c19f2c;
   --cc-2: #71502f;
   --cc-3: #547076;
 }
-[data-combo="161"] {   /* Brown, Pinkish Cinnamon, Helvetia Blue */
+[data-color-combination="161"] {   /* Brown, Pinkish Cinnamon, Helvetia Blue */
   --cc-1: #7c4226;
   --cc-2: #eeb480;
   --cc-3: #005b8d;
 }
-[data-combo="162"] {   /* Old Rose, Rainette Green, Lilac */
+[data-color-combination="162"] {   /* Old Rose, Rainette Green, Lilac */
   --cc-1: #d46d7a;
   --cc-2: #8fa071;
   --cc-3: #b984af;
 }
-[data-combo="163"] {   /* Apricot Yellow, Turquoise Green, Antwarp Blue */
+[data-color-combination="163"] {   /* Apricot Yellow, Turquoise Green, Antwarp Blue */
   --cc-1: #ffdd00;
   --cc-2: #b5decc;
   --cc-3: #007190;
 }
-[data-combo="164"] {   /* Red Orange, Orange Yellow, Violet */
+[data-color-combination="164"] {   /* Red Orange, Orange Yellow, Violet */
   --cc-1: #dd4027;
   --cc-2: #fcb315;
   --cc-3: #4f4086;
 }
-[data-combo="165"] {   /* Cameo Pink, Spinel Red, Vistoris Lake */
+[data-color-combination="165"] {   /* Cameo Pink, Spinel Red, Vistoris Lake */
   --cc-1: #e0b3b6;
   --cc-2: #f27291;
   --cc-3: #6d4145;
 }
-[data-combo="166"] {   /* Grenadine Pink, Naples Yellow, Deep Slate Green */
+[data-color-combination="166"] {   /* Grenadine Pink, Naples Yellow, Deep Slate Green */
   --cc-1: #f48067;
   --cc-2: #fbe6a0;
   --cc-3: #112f2c;
 }
-[data-combo="167"] {   /* Ecru, Pale King's Blue, Vandar Poel's Blue */
+[data-color-combination="167"] {   /* Ecru, Pale King's Blue, Vandar Poel's Blue */
   --cc-1: #c2ae93;
   --cc-2: #a7d4e4;
   --cc-3: #064f6e;
 }
-[data-combo="168"] {   /* Lemon Yellow, Vandar Poel's Blue, Veronia Purple */
+[data-color-combination="168"] {   /* Lemon Yellow, Vandar Poel's Blue, Veronia Purple */
   --cc-1: #f8ed43;
   --cc-2: #064f6e;
   --cc-3: #8c4c62;
 }
-[data-combo="169"] {   /* Corinthian Pink, Pale Lemon Yellow, Warm Gray */
+[data-color-combination="169"] {   /* Corinthian Pink, Pale Lemon Yellow, Warm Gray */
   --cc-1: #f8b6ba;
   --cc-2: #ffefae;
   --cc-3: #a1a39a;
 }
-[data-combo="170"] {   /* Rosolanc Purple, Orange Yellow, Red Violet */
+[data-color-combination="170"] {   /* Rosolanc Purple, Orange Yellow, Red Violet */
   --cc-1: #b73f74;
   --cc-2: #fcb315;
   --cc-3: #59256a;
 }
-[data-combo="171"] {   /* Pale Burnt Lake, Yellow Orange, Glaucous Green */
+[data-color-combination="171"] {   /* Pale Burnt Lake, Yellow Orange, Glaucous Green */
   --cc-1: #802626;
   --cc-2: #f99d1b;
   --cc-3: #b4cdc2;
 }
-[data-combo="172"] {   /* Cinnamon Rufous, Antwarp Blue, Red Violet */
+[data-color-combination="172"] {   /* Cinnamon Rufous, Antwarp Blue, Red Violet */
   --cc-1: #c27544;
   --cc-2: #007190;
   --cc-3: #59256a;
 }
-[data-combo="173"] {   /* Lemon Yellow, Madder Brown, Turquoise Green */
+[data-color-combination="173"] {   /* Lemon Yellow, Madder Brown, Turquoise Green */
   --cc-1: #f8ed43;
   --cc-2: #762c19;
   --cc-3: #b5decc;
 }
-[data-combo="174"] {   /* Corinthian Pink, Grayish Lavender - B, Taupe Brown */
+[data-color-combination="174"] {   /* Corinthian Pink, Grayish Lavender - B, Taupe Brown */
   --cc-1: #f8b6ba;
   --cc-2: #c0a9b3;
   --cc-3: #7a4456;
 }
-[data-combo="175"] {   /* Pinkish Cinnamon, Olive Buff, Blue Violet */
+[data-color-combination="175"] {   /* Pinkish Cinnamon, Olive Buff, Blue Violet */
   --cc-1: #eeb480;
   --cc-2: #c1c494;
   --cc-3: #6450a1;
 }
-[data-combo="176"] {   /* Hermosa Pink, Seashell Pink, Calamine BLue */
+[data-color-combination="176"] {   /* Hermosa Pink, Seashell Pink, Calamine BLue */
   --cc-1: #f9c1ce;
   --cc-2: #fdd4bd;
   --cc-3: #78cdd0;
 }
-[data-combo="177"] {   /* Pale Burnt Lake, Buffy Citrine, Grayish Lavender - A */
+[data-color-combination="177"] {   /* Pale Burnt Lake, Buffy Citrine, Grayish Lavender - A */
   --cc-1: #802626;
   --cc-2: #96874d;
   --cc-3: #b5b1d8;
 }
-[data-combo="178"] {   /* Ivory Buff, Light Glaucous Blue, Green Blue */
+[data-color-combination="178"] {   /* Ivory Buff, Light Glaucous Blue, Green Blue */
   --cc-1: #ebd3a2;
   --cc-2: #a5c8d1;
   --cc-3: #099197;
 }
-[data-combo="179"] {   /* Red Orange, Golden Yellow, Deep Lyons Blue */
+[data-color-combination="179"] {   /* Red Orange, Golden Yellow, Deep Lyons Blue */
   --cc-1: #dd4027;
   --cc-2: #f3a257;
   --cc-3: #1c4286;
 }
-[data-combo="180"] {   /* Cinnamon Buff, Light Mauve, Neutral Gray */
+[data-color-combination="180"] {   /* Cinnamon Buff, Light Mauve, Neutral Gray */
   --cc-1: #fdc57e;
   --cc-2: #9a72aa;
   --cc-3: #b6bfc1;
 }
-[data-combo="181"] {   /* Carmine Red, Violet, Cotinga Purple */
+[data-color-combination="181"] {   /* Carmine Red, Violet, Cotinga Purple */
   --cc-1: #a62c37;
   --cc-2: #4f4086;
   --cc-3: #501345;
 }
-[data-combo="182"] {   /* Raw Sienna, Vandyke Brown, Deep Indigo */
+[data-color-combination="182"] {   /* Raw Sienna, Vandyke Brown, Deep Indigo */
   --cc-1: #bb7125;
   --cc-2: #4b3317;
   --cc-3: #051230;
 }
-[data-combo="183"] {   /* Deep Violet / Plumbeous, Veronia Purple, Red Violet */
+[data-color-combination="183"] {   /* Deep Violet / Plumbeous, Veronia Purple, Red Violet */
   --cc-1: #70727c;
   --cc-2: #8c4c62;
   --cc-3: #59256a;
 }
-[data-combo="184"] {   /* Spinel Red, Ivory Buff, Light Grayish Olive */
+[data-color-combination="184"] {   /* Spinel Red, Ivory Buff, Light Grayish Olive */
   --cc-1: #f27291;
   --cc-2: #ebd3a2;
   --cc-3: #848061;
 }
-[data-combo="185"] {   /* Light Brown Drab, Etruscan Red, Pale Lemon Yellow */
+[data-color-combination="185"] {   /* Light Brown Drab, Etruscan Red, Pale Lemon Yellow */
   --cc-1: #b59392;
   --cc-2: #c55347;
   --cc-3: #ffefae;
 }
-[data-combo="186"] {   /* Hay's Russet, Ochraceous Salmon, Blue */
+[data-color-combination="186"] {   /* Hay's Russet, Ochraceous Salmon, Blue */
   --cc-1: #793327;
   --cc-2: #d8a37b;
   --cc-3: #006eb8;
 }
-[data-combo="187"] {   /* Helvetia Blue, Grayish Lavender - B, Aconite Violet */
+[data-color-combination="187"] {   /* Helvetia Blue, Grayish Lavender - B, Aconite Violet */
   --cc-1: #005b8d;
   --cc-2: #c0a9b3;
   --cc-3: #a36aa5;
 }
-[data-combo="188"] {   /* Rainette Green, Salvia Blue, Cobalt Green */
+[data-color-combination="188"] {   /* Rainette Green, Salvia Blue, Cobalt Green */
   --cc-1: #8fa071;
   --cc-2: #97acc8;
   --cc-3: #96d1aa;
 }
-[data-combo="189"] {   /* Lemon Yellow, Deep Slate Olive, Venice Green */
+[data-color-combination="189"] {   /* Lemon Yellow, Deep Slate Olive, Venice Green */
   --cc-1: #f8ed43;
   --cc-2: #253122;
   --cc-3: #62c6bf;
 }
-[data-combo="190"] {   /* Ivory Buff, English Red, Black */
+[data-color-combination="190"] {   /* Ivory Buff, English Red, Black */
   --cc-1: #ebd3a2;
   --cc-2: #d96629;
   --cc-3: #111314;
 }
-[data-combo="191"] {   /* Light Brown Drab, Yellow Ocher, Blue */
+[data-color-combination="191"] {   /* Light Brown Drab, Yellow Ocher, Blue */
   --cc-1: #b59392;
   --cc-2: #e2b540;
   --cc-3: #006eb8;
 }
-[data-combo="192"] {   /* Cream Yellow, Vandyke Brown, Deep Violet / Plumbeous */
+[data-color-combination="192"] {   /* Cream Yellow, Vandyke Brown, Deep Violet / Plumbeous */
   --cc-1: #fdbf68;
   --cc-2: #4b3317;
   --cc-3: #70727c;
 }
-[data-combo="193"] {   /* Grenadine Pink, Naples Yellow, Light Porcelain Green */
+[data-color-combination="193"] {   /* Grenadine Pink, Naples Yellow, Light Porcelain Green */
   --cc-1: #f48067;
   --cc-2: #fbe6a0;
   --cc-3: #00908a;
 }
-[data-combo="194"] {   /* Jasper Red, Seashell Pink, Olympic Blue */
+[data-color-combination="194"] {   /* Jasper Red, Seashell Pink, Olympic Blue */
   --cc-1: #eb5324;
   --cc-2: #fdd4bd;
   --cc-3: #5a82b3;
 }
-[data-combo="195"] {   /* Spinel Red, Pale Lemon Yellow, Neutral Gray */
+[data-color-combination="195"] {   /* Spinel Red, Pale Lemon Yellow, Neutral Gray */
   --cc-1: #f27291;
   --cc-2: #ffefae;
   --cc-3: #b6bfc1;
 }
-[data-combo="196"] {   /* Citron Yellow, Pale King's Blue, Blue Violet */
+[data-color-combination="196"] {   /* Citron Yellow, Pale King's Blue, Blue Violet */
   --cc-1: #b2b73e;
   --cc-2: #a7d4e4;
   --cc-3: #6450a1;
 }
-[data-combo="197"] {   /* Eosine Pink, Dark Soft Violet, Neutral Gray */
+[data-color-combination="197"] {   /* Eosine Pink, Dark Soft Violet, Neutral Gray */
   --cc-1: #f37f94;
   --cc-2: #66629c;
   --cc-3: #b6bfc1;
 }
-[data-combo="198"] {   /* Burnt Sienna, Apricot Yellow, Green */
+[data-color-combination="198"] {   /* Burnt Sienna, Apricot Yellow, Green */
   --cc-1: #ae5224;
   --cc-2: #ffdd00;
   --cc-3: #489b6e;
 }
-[data-combo="199"] {   /* Ochre Red, Light Brownish Olive, Deep Lyons Blue */
+[data-color-combination="199"] {   /* Ochre Red, Light Brownish Olive, Deep Lyons Blue */
   --cc-1: #ab544d;
   --cc-2: #806e4b;
   --cc-3: #1c4286;
 }
-[data-combo="200"] {   /* Carmine Red, Olive Buff, Chromium Green */
+[data-color-combination="200"] {   /* Carmine Red, Olive Buff, Chromium Green */
   --cc-1: #a62c37;
   --cc-2: #c1c494;
   --cc-3: #719470;
 }
-[data-combo="201"] {   /* Grenadine Pink, Olive, Cobalt Green */
+[data-color-combination="201"] {   /* Grenadine Pink, Olive, Cobalt Green */
   --cc-1: #f48067;
   --cc-2: #837e31;
   --cc-3: #96d1aa;
 }
-[data-combo="202"] {   /* Turquoise Green, Cobalt Green, Slate Color */
+[data-color-combination="202"] {   /* Turquoise Green, Cobalt Green, Slate Color */
   --cc-1: #b5decc;
   --cc-2: #96d1aa;
   --cc-3: #34454c;
 }
-[data-combo="203"] {   /* Pale Lemon Yellow, Vinaceous Cinnamon, Lincoln Green */
+[data-color-combination="203"] {   /* Pale Lemon Yellow, Vinaceous Cinnamon, Lincoln Green */
   --cc-1: #ffefae;
   --cc-2: #eea78c;
   --cc-3: #555832;
 }
-[data-combo="204"] {   /* Rosolanc Purple, Cinnamon Rufous, Light Glaucous Blue */
+[data-color-combination="204"] {   /* Rosolanc Purple, Cinnamon Rufous, Light Glaucous Blue */
   --cc-1: #b73f74;
   --cc-2: #c27544;
   --cc-3: #a5c8d1;
 }
-[data-combo="205"] {   /* Pale Burnt Lake, Vinaceous Cinnamon, Violet */
+[data-color-combination="205"] {   /* Pale Burnt Lake, Vinaceous Cinnamon, Violet */
   --cc-1: #802626;
   --cc-2: #eea78c;
   --cc-3: #4f4086;
 }
-[data-combo="206"] {   /* Corinthian Pink, Golden Yellow, Cinnamon Rufous */
+[data-color-combination="206"] {   /* Corinthian Pink, Golden Yellow, Cinnamon Rufous */
   --cc-1: #f8b6ba;
   --cc-2: #f3a257;
   --cc-3: #c27544;
 }
-[data-combo="207"] {   /* Sudan Brown, Glaucous Green, Black */
+[data-color-combination="207"] {   /* Sudan Brown, Glaucous Green, Black */
   --cc-1: #a36752;
   --cc-2: #b4cdc2;
   --cc-3: #111314;
 }
-[data-combo="208"] {   /* Sulpher Yellow, Green Blue, Antwarp Blue */
+[data-color-combination="208"] {   /* Sulpher Yellow, Green Blue, Antwarp Blue */
   --cc-1: #f5ecc2;
   --cc-2: #099197;
   --cc-3: #007190;
 }
-[data-combo="209"] {   /* Ivory Buff, Yellow Orange, Salvia Blue */
+[data-color-combination="209"] {   /* Ivory Buff, Yellow Orange, Salvia Blue */
   --cc-1: #ebd3a2;
   --cc-2: #f99d1b;
   --cc-3: #97acc8;
 }
-[data-combo="210"] {   /* Cinnamon Buff, Lemon Yellow, Lincoln Green */
+[data-color-combination="210"] {   /* Cinnamon Buff, Lemon Yellow, Lincoln Green */
   --cc-1: #fdc57e;
   --cc-2: #f8ed43;
   --cc-3: #555832;
 }
-[data-combo="211"] {   /* Apricot Orange, Olive Yellow, Deep Indigo */
+[data-color-combination="211"] {   /* Apricot Orange, Olive Yellow, Deep Indigo */
   --cc-1: #f68c50;
   --cc-2: #a6a159;
   --cc-3: #051230;
 }
-[data-combo="212"] {   /* Pompeian Red, Orange Citrine, Salvia Blue */
+[data-color-combination="212"] {   /* Pompeian Red, Orange Citrine, Salvia Blue */
   --cc-1: #ab2439;
   --cc-2: #986f2d;
   --cc-3: #97acc8;
 }
-[data-combo="213"] {   /* Vinaceous Cinnamon, Apricot Yellow, Pale King's Blue */
+[data-color-combination="213"] {   /* Vinaceous Cinnamon, Apricot Yellow, Pale King's Blue */
   --cc-1: #eea78c;
   --cc-2: #ffdd00;
   --cc-3: #a7d4e4;
 }
-[data-combo="214"] {   /* Ivory Buff, Sudan Brown, Violet */
+[data-color-combination="214"] {   /* Ivory Buff, Sudan Brown, Violet */
   --cc-1: #ebd3a2;
   --cc-2: #a36752;
   --cc-3: #4f4086;
 }
-[data-combo="215"] {   /* Cream Yellow, Blue, Eupatorium Purple */
+[data-color-combination="215"] {   /* Cream Yellow, Blue, Eupatorium Purple */
   --cc-1: #fdbf68;
   --cc-2: #006eb8;
   --cc-3: #bf5892;
 }
-[data-combo="216"] {   /* Jasper Red, Green, Black */
+[data-color-combination="216"] {   /* Jasper Red, Green, Black */
   --cc-1: #eb5324;
   --cc-2: #489b6e;
   --cc-3: #111314;
 }
-[data-combo="217"] {   /* Pale Burnt Lake, Ochraceous Salmon, Diamine Green */
+[data-color-combination="217"] {   /* Pale Burnt Lake, Ochraceous Salmon, Diamine Green */
   --cc-1: #802626;
   --cc-2: #d8a37b;
   --cc-3: #1a7444;
 }
-[data-combo="218"] {   /* Helvetia Blue, Grayish Lavender - A, Deep Violet / Plumbeous */
+[data-color-combination="218"] {   /* Helvetia Blue, Grayish Lavender - A, Deep Violet / Plumbeous */
   --cc-1: #005b8d;
   --cc-2: #b5b1d8;
   --cc-3: #70727c;
 }
-[data-combo="219"] {   /* Jasper Red, Chromium Green, Dusky Green */
+[data-color-combination="219"] {   /* Jasper Red, Chromium Green, Dusky Green */
   --cc-1: #eb5324;
   --cc-2: #719470;
   --cc-3: #004f46;
 }
-[data-combo="220"] {   /* Pomegranite Purple, Ochraceous Salmon, Aconite Violet */
+[data-color-combination="220"] {   /* Pomegranite Purple, Ochraceous Salmon, Aconite Violet */
   --cc-1: #b71f57;
   --cc-2: #d8a37b;
   --cc-3: #a36aa5;
 }
-[data-combo="221"] {   /* Carmine Red, Neutral Gray, Black */
+[data-color-combination="221"] {   /* Carmine Red, Neutral Gray, Black */
   --cc-1: #a62c37;
   --cc-2: #b6bfc1;
   --cc-3: #111314;
 }
-[data-combo="222"] {   /* Yellow Ocher, Yellow Orange, Orange Rufous */
+[data-color-combination="222"] {   /* Yellow Ocher, Yellow Orange, Orange Rufous */
   --cc-1: #e2b540;
   --cc-2: #f99d1b;
   --cc-3: #c16b27;
 }
-[data-combo="223"] {   /* Light Brown Drab, Ochraceous Salmon, Turquoise Green */
+[data-color-combination="223"] {   /* Light Brown Drab, Ochraceous Salmon, Turquoise Green */
   --cc-1: #b59392;
   --cc-2: #d8a37b;
   --cc-3: #b5decc;
 }
-[data-combo="224"] {   /* Spinel Red, Dark Medici Blue, Taupe Brown */
+[data-color-combination="224"] {   /* Spinel Red, Dark Medici Blue, Taupe Brown */
   --cc-1: #f27291;
   --cc-2: #547076;
   --cc-3: #7a4456;
 }
-[data-combo="225"] {   /* Carmine, Dusky Green, Dark Slate Purple */
+[data-color-combination="225"] {   /* Carmine, Dusky Green, Dark Slate Purple */
   --cc-1: #cc1236;
   --cc-2: #004f46;
   --cc-3: #704357;
 }
-[data-combo="226"] {   /* Vistoris Lake, Cream Yellow, Violet */
+[data-color-combination="226"] {   /* Vistoris Lake, Cream Yellow, Violet */
   --cc-1: #6d4145;
   --cc-2: #fdbf68;
   --cc-3: #4f4086;
 }
-[data-combo="227"] {   /* Hermosa Pink, Light Glaucous Blue, Cerulian Blue */
+[data-color-combination="227"] {   /* Hermosa Pink, Light Glaucous Blue, Cerulian Blue */
   --cc-1: #f9c1ce;
   --cc-2: #a5c8d1;
   --cc-3: #0093a5;
 }
-[data-combo="228"] {   /* Carmine Red, Pale Lemon Yellow, Neutral Gray */
+[data-color-combination="228"] {   /* Carmine Red, Pale Lemon Yellow, Neutral Gray */
   --cc-1: #a62c37;
   --cc-2: #ffefae;
   --cc-3: #b6bfc1;
 }
-[data-combo="229"] {   /* Golden Yellow, Deep Slate Olive, Neutral Gray */
+[data-color-combination="229"] {   /* Golden Yellow, Deep Slate Olive, Neutral Gray */
   --cc-1: #f3a257;
   --cc-2: #253122;
   --cc-3: #b6bfc1;
 }
-[data-combo="230"] {   /* Grenadine Pink, Turquoise Green, Cobalt Green */
+[data-color-combination="230"] {   /* Grenadine Pink, Turquoise Green, Cobalt Green */
   --cc-1: #f48067;
   --cc-2: #b5decc;
   --cc-3: #96d1aa;
 }
-[data-combo="231"] {   /* Cameo Pink, Hay's Russet, Olympic Blue */
+[data-color-combination="231"] {   /* Cameo Pink, Hay's Russet, Olympic Blue */
   --cc-1: #e0b3b6;
   --cc-2: #793327;
   --cc-3: #5a82b3;
 }
-[data-combo="232"] {   /* Carmine, Pinkish Cinnamon, Deep Indigo */
+[data-color-combination="232"] {   /* Carmine, Pinkish Cinnamon, Deep Indigo */
   --cc-1: #cc1236;
   --cc-2: #eeb480;
   --cc-3: #051230;
 }
-[data-combo="233"] {   /* Carmine Red, Buffy Citrine, Violet Blue */
+[data-color-combination="233"] {   /* Carmine Red, Buffy Citrine, Violet Blue */
   --cc-1: #a62c37;
   --cc-2: #96874d;
   --cc-3: #40456a;
 }
-[data-combo="234"] {   /* Cinnamon Buff, Pale Raw Umber, Pale King's Blue */
+[data-color-combination="234"] {   /* Cinnamon Buff, Pale Raw Umber, Pale King's Blue */
   --cc-1: #fdc57e;
   --cc-2: #71502f;
   --cc-3: #a7d4e4;
 }
-[data-combo="235"] {   /* Ivory Buff, Yellow Orange, Grayish Lavender - B */
+[data-color-combination="235"] {   /* Ivory Buff, Yellow Orange, Grayish Lavender - B */
   --cc-1: #ebd3a2;
   --cc-2: #f99d1b;
   --cc-3: #c0a9b3;
 }
-[data-combo="236"] {   /* Khaki, Deep Lyons Blue, Purple Drab */
+[data-color-combination="236"] {   /* Khaki, Deep Lyons Blue, Purple Drab */
   --cc-1: #bc892b;
   --cc-2: #1c4286;
   --cc-3: #84565b;
 }
-[data-combo="237"] {   /* Carmine Red, Madder Brown, Salvia Blue */
+[data-color-combination="237"] {   /* Carmine Red, Madder Brown, Salvia Blue */
   --cc-1: #a62c37;
   --cc-2: #762c19;
   --cc-3: #97acc8;
 }
-[data-combo="238"] {   /* Ochraceous Salmon, Cotinga Purple, Warm Gray */
+[data-color-combination="238"] {   /* Ochraceous Salmon, Cotinga Purple, Warm Gray */
   --cc-1: #d8a37b;
   --cc-2: #501345;
   --cc-3: #a1a39a;
 }
-[data-combo="239"] {   /* Light Brown Drab, Pyrite Yellow, Glaucous Green */
+[data-color-combination="239"] {   /* Light Brown Drab, Pyrite Yellow, Glaucous Green */
   --cc-1: #b59392;
   --cc-2: #cab356;
   --cc-3: #b4cdc2;
 }
-[data-combo="240"] {   /* Fresh Color, Yellow, Cerulian Blue */
+[data-color-combination="240"] {   /* Fresh Color, Yellow, Cerulian Blue */
   --cc-1: #f6917e;
   --cc-2: #fff200;
   --cc-3: #0093a5;
 }
-[data-combo="241"] {   /* Red Orange, Pale Lemon Yellow, Isabella Color, Dark Medici Blue */
+[data-color-combination="241"] {   /* Red Orange, Pale Lemon Yellow, Isabella Color, Dark Medici Blue */
   --cc-1: #dd4027;
   --cc-2: #ffefae;
   --cc-3: #c5a56e;
   --cc-4: #547076;
 }
-[data-combo="242"] {   /* Eosine Pink, Burnt Sienna, Diamine Green, Black */
+[data-color-combination="242"] {   /* Eosine Pink, Burnt Sienna, Diamine Green, Black */
   --cc-1: #f37f94;
   --cc-2: #ae5224;
   --cc-3: #1a7444;
   --cc-4: #111314;
 }
-[data-combo="243"] {   /* Raw Sienna, Ivory Buff, Olive Green, Slate Color */
+[data-color-combination="243"] {   /* Raw Sienna, Ivory Buff, Olive Green, Slate Color */
   --cc-1: #bb7125;
   --cc-2: #ebd3a2;
   --cc-3: #6b7140;
   --cc-4: #34454c;
 }
-[data-combo="244"] {   /* Light Brown Drab, Vinaceous Tawny, Andover Green, Antwarp Blue */
+[data-color-combination="244"] {   /* Light Brown Drab, Vinaceous Tawny, Andover Green, Antwarp Blue */
   --cc-1: #b59392;
   --cc-2: #c56127;
   --cc-3: #6d7e77;
   --cc-4: #007190;
 }
-[data-combo="245"] {   /* Carmine Red, Oil Green, Dark Tyrian Blue, Slate Color */
+[data-color-combination="245"] {   /* Carmine Red, Oil Green, Dark Tyrian Blue, Slate Color */
   --cc-1: #a62c37;
   --cc-2: #819238;
   --cc-3: #12354e;
   --cc-4: #34454c;
 }
-[data-combo="246"] {   /* Corinthian Pink, Brick Red, Sulpher Yellow, Cinnamon Buff */
+[data-color-combination="246"] {   /* Corinthian Pink, Brick Red, Sulpher Yellow, Cinnamon Buff */
   --cc-1: #f8b6ba;
   --cc-2: #a84222;
   --cc-3: #f5ecc2;
   --cc-4: #fdc57e;
 }
-[data-combo="247"] {   /* Raw Sienna, Apricot Yellow, Benzol Green, Deep Lyons Blue */
+[data-color-combination="247"] {   /* Raw Sienna, Apricot Yellow, Benzol Green, Deep Lyons Blue */
   --cc-1: #bb7125;
   --cc-2: #ffdd00;
   --cc-3: #00978d;
   --cc-4: #1c4286;
 }
-[data-combo="248"] {   /* Eosine Pink, Khaki, Grayish Lavender - A, Dark Slate Purple */
+[data-color-combination="248"] {   /* Eosine Pink, Khaki, Grayish Lavender - A, Dark Slate Purple */
   --cc-1: #f37f94;
   --cc-2: #bc892b;
   --cc-3: #b5b1d8;
   --cc-4: #704357;
 }
-[data-combo="249"] {   /* Hay's Russet, Ecru, Olive Ocher, Dark Medici Blue */
+[data-color-combination="249"] {   /* Hay's Russet, Ecru, Olive Ocher, Dark Medici Blue */
   --cc-1: #793327;
   --cc-2: #c2ae93;
   --cc-3: #d6b43e;
   --cc-4: #547076;
 }
-[data-combo="250"] {   /* Pyrite Yellow, Peach Red, Sea Green, Nile Blue */
+[data-color-combination="250"] {   /* Pyrite Yellow, Peach Red, Sea Green, Nile Blue */
   --cc-1: #cab356;
   --cc-2: #f15a30;
   --cc-3: #00b49b;
   --cc-4: #bce4e5;
 }
-[data-combo="251"] {   /* Red, Yellow, Diamine Green, Slate Color */
+[data-color-combination="251"] {   /* Red, Yellow, Diamine Green, Slate Color */
   --cc-1: #a72144;
   --cc-2: #fff200;
   --cc-3: #1a7444;
   --cc-4: #34454c;
 }
-[data-combo="252"] {   /* Eugenia Red | B, Raw Sienna, Sulphine Yellow, Green Blue */
+[data-color-combination="252"] {   /* Eugenia Red | B, Raw Sienna, Sulphine Yellow, Green Blue */
   --cc-1: #da525d;
   --cc-2: #bb7125;
   --cc-3: #c19f2c;
   --cc-4: #099197;
 }
-[data-combo="253"] {   /* Lemon Yellow, Apricot Orange, Cotinga Purple, Slate Color */
+[data-color-combination="253"] {   /* Lemon Yellow, Apricot Orange, Cotinga Purple, Slate Color */
   --cc-1: #f8ed43;
   --cc-2: #f68c50;
   --cc-3: #501345;
   --cc-4: #34454c;
 }
-[data-combo="254"] {   /* Corinthian Pink, Sulpher Yellow, Olive, Laelia Pink */
+[data-color-combination="254"] {   /* Corinthian Pink, Sulpher Yellow, Olive, Laelia Pink */
   --cc-1: #f8b6ba;
   --cc-2: #f5ecc2;
   --cc-3: #837e31;
   --cc-4: #ca92a8;
 }
-[data-combo="255"] {   /* Raw Sienna, Pyrite Yellow, Calamine BLue, Black */
+[data-color-combination="255"] {   /* Raw Sienna, Pyrite Yellow, Calamine BLue, Black */
   --cc-1: #bb7125;
   --cc-2: #cab356;
   --cc-3: #78cdd0;
   --cc-4: #111314;
 }
-[data-combo="256"] {   /* Vinaceous Cinnamon, Orange, Dull Viridian Green, Black */
+[data-color-combination="256"] {   /* Vinaceous Cinnamon, Orange, Dull Viridian Green, Black */
   --cc-1: #eea78c;
   --cc-2: #f37420;
   --cc-3: #009465;
   --cc-4: #111314;
 }
-[data-combo="257"] {   /* Spectrum Red, Orange Yellow, Blue, Aconite Violet */
+[data-color-combination="257"] {   /* Spectrum Red, Orange Yellow, Blue, Aconite Violet */
   --cc-1: #e31f26;
   --cc-2: #fcb315;
   --cc-3: #006eb8;
   --cc-4: #a36aa5;
 }
-[data-combo="258"] {   /* Pale Burnt Lake, Pinkish Cinnamon, Olive, Antwarp Blue */
+[data-color-combination="258"] {   /* Pale Burnt Lake, Pinkish Cinnamon, Olive, Antwarp Blue */
   --cc-1: #802626;
   --cc-2: #eeb480;
   --cc-3: #837e31;
   --cc-4: #007190;
 }
-[data-combo="259"] {   /* Lemon Yellow, Green Blue, Helvetia Blue, Warm Gray */
+[data-color-combination="259"] {   /* Lemon Yellow, Green Blue, Helvetia Blue, Warm Gray */
   --cc-1: #f8ed43;
   --cc-2: #099197;
   --cc-3: #005b8d;
   --cc-4: #a1a39a;
 }
-[data-combo="260"] {   /* Old Rose, Vinaceous Cinnamon, Glaucous Green, Sea Green */
+[data-color-combination="260"] {   /* Old Rose, Vinaceous Cinnamon, Glaucous Green, Sea Green */
   --cc-1: #d46d7a;
   --cc-2: #eea78c;
   --cc-3: #b4cdc2;
   --cc-4: #00b49b;
 }
-[data-combo="261"] {   /* Red, Pale Lemon Yellow, Calamine BLue, Warm Gray */
+[data-color-combination="261"] {   /* Red, Pale Lemon Yellow, Calamine BLue, Warm Gray */
   --cc-1: #a72144;
   --cc-2: #ffefae;
   --cc-3: #78cdd0;
   --cc-4: #a1a39a;
 }
-[data-combo="262"] {   /* Eugenia Red | B, Ivory Buff, Citrine, Cossack Green */
+[data-color-combination="262"] {   /* Eugenia Red | B, Ivory Buff, Citrine, Cossack Green */
   --cc-1: #da525d;
   --cc-2: #ebd3a2;
   --cc-3: #b09f36;
   --cc-4: #437742;
 }
-[data-combo="263"] {   /* Burnt Sienna, Pinkish Cinnamon, Turquoise Green, Slate Color */
+[data-color-combination="263"] {   /* Burnt Sienna, Pinkish Cinnamon, Turquoise Green, Slate Color */
   --cc-1: #ae5224;
   --cc-2: #eeb480;
   --cc-3: #b5decc;
   --cc-4: #34454c;
 }
-[data-combo="264"] {   /* Corinthian Pink, Red Orange, Dark Greenish Glaucous, Cerulian Blue */
+[data-color-combination="264"] {   /* Corinthian Pink, Red Orange, Dark Greenish Glaucous, Cerulian Blue */
   --cc-1: #f8b6ba;
   --cc-2: #dd4027;
   --cc-3: #b7c2a9;
   --cc-4: #0093a5;
 }
-[data-combo="265"] {   /* Old Rose, Apricot Yellow, Olive Yellow, Dull Violet Black */
+[data-color-combination="265"] {   /* Old Rose, Apricot Yellow, Olive Yellow, Dull Violet Black */
   --cc-1: #d46d7a;
   --cc-2: #ffdd00;
   --cc-3: #a6a159;
   --cc-4: #1e0e3f;
 }
-[data-combo="266"] {   /* Spectrum Red, Ivory Buff, Rainette Green, Benzol Green */
+[data-color-combination="266"] {   /* Spectrum Red, Ivory Buff, Rainette Green, Benzol Green */
   --cc-1: #e31f26;
   --cc-2: #ebd3a2;
   --cc-3: #8fa071;
   --cc-4: #00978d;
 }
-[data-combo="267"] {   /* Cream Yellow, Yellow Orange, Benzol Green, Blue */
+[data-color-combination="267"] {   /* Cream Yellow, Yellow Orange, Benzol Green, Blue */
   --cc-1: #fdbf68;
   --cc-2: #f99d1b;
   --cc-3: #00978d;
   --cc-4: #006eb8;
 }
-[data-combo="268"] {   /* Light Brown Drab, Raw Sienna, Deep Slate Olive, Nile Blue */
+[data-color-combination="268"] {   /* Light Brown Drab, Raw Sienna, Deep Slate Olive, Nile Blue */
   --cc-1: #b59392;
   --cc-2: #bb7125;
   --cc-3: #253122;
   --cc-4: #bce4e5;
 }
-[data-combo="269"] {   /* Raw Sienna, Pale Burnt Lake, Aconite Violet, Black */
+[data-color-combination="269"] {   /* Raw Sienna, Pale Burnt Lake, Aconite Violet, Black */
   --cc-1: #bb7125;
   --cc-2: #802626;
   --cc-3: #a36aa5;
   --cc-4: #111314;
 }
-[data-combo="270"] {   /* Eugenia Red | B, Sulpher Yellow, Olive Green, Cossack Green */
+[data-color-combination="270"] {   /* Eugenia Red | B, Sulpher Yellow, Olive Green, Cossack Green */
   --cc-1: #da525d;
   --cc-2: #f5ecc2;
   --cc-3: #6b7140;
   --cc-4: #437742;
 }
-[data-combo="271"] {   /* Pomegranite Purple, Cobalt Green, Green Blue, Deep Slate Green */
+[data-color-combination="271"] {   /* Pomegranite Purple, Cobalt Green, Green Blue, Deep Slate Green */
   --cc-1: #b71f57;
   --cc-2: #96d1aa;
   --cc-3: #099197;
   --cc-4: #112f2c;
 }
-[data-combo="272"] {   /* Pale Lemon Yellow, Orange, Turquoise Green, Salvia Blue */
+[data-color-combination="272"] {   /* Pale Lemon Yellow, Orange, Turquoise Green, Salvia Blue */
   --cc-1: #ffefae;
   --cc-2: #f37420;
   --cc-3: #b5decc;
   --cc-4: #97acc8;
 }
-[data-combo="273"] {   /* Hermosa Pink, Pansy Purple, Sudan Brown, Neutral Gray */
+[data-color-combination="273"] {   /* Hermosa Pink, Pansy Purple, Sudan Brown, Neutral Gray */
   --cc-1: #f9c1ce;
   --cc-2: #7d133a;
   --cc-3: #a36752;
   --cc-4: #b6bfc1;
 }
-[data-combo="274"] {   /* Peach Red, Dark Citrine, Olympic Blue, Light Mauve */
+[data-color-combination="274"] {   /* Peach Red, Dark Citrine, Olympic Blue, Light Mauve */
   --cc-1: #f15a30;
   --cc-2: #8b835b;
   --cc-3: #5a82b3;
   --cc-4: #9a72aa;
 }
-[data-combo="275"] {   /* Etruscan Red, Ecru, Madder Brown, Taupe Brown */
+[data-color-combination="275"] {   /* Etruscan Red, Ecru, Madder Brown, Taupe Brown */
   --cc-1: #c55347;
   --cc-2: #c2ae93;
   --cc-3: #762c19;
   --cc-4: #7a4456;
 }
-[data-combo="276"] {   /* Eosine Pink, Seashell Pink, Yellow Green, Black */
+[data-color-combination="276"] {   /* Eosine Pink, Seashell Pink, Yellow Green, Black */
   --cc-1: #f37f94;
   --cc-2: #fdd4bd;
   --cc-3: #afd472;
   --cc-4: #111314;
 }
-[data-combo="277"] {   /* Spinel Red, Rosolanc Purple, Olive, Dull Violet Black */
+[data-color-combination="277"] {   /* Spinel Red, Rosolanc Purple, Olive, Dull Violet Black */
   --cc-1: #f27291;
   --cc-2: #b73f74;
   --cc-3: #837e31;
   --cc-4: #1e0e3f;
 }
-[data-combo="278"] {   /* Cream Yellow, Olive Ocher, Cossack Green, Dusky Green */
+[data-color-combination="278"] {   /* Cream Yellow, Olive Ocher, Cossack Green, Dusky Green */
   --cc-1: #fdbf68;
   --cc-2: #d6b43e;
   --cc-3: #437742;
   --cc-4: #004f46;
 }
-[data-combo="279"] {   /* Raw Sienna, Vinaceous Cinnamon, Ecru, Dark Tyrian Blue */
+[data-color-combination="279"] {   /* Raw Sienna, Vinaceous Cinnamon, Ecru, Dark Tyrian Blue */
   --cc-1: #bb7125;
   --cc-2: #eea78c;
   --cc-3: #c2ae93;
   --cc-4: #12354e;
 }
-[data-combo="280"] {   /* Eugenia Red | B, Lincoln Green, Laelia Pink, Taupe Brown */
+[data-color-combination="280"] {   /* Eugenia Red | B, Lincoln Green, Laelia Pink, Taupe Brown */
   --cc-1: #da525d;
   --cc-2: #555832;
   --cc-3: #ca92a8;
   --cc-4: #7a4456;
 }
-[data-combo="281"] {   /* Pale Lemon Yellow, Benzol Green, Cobalt Green, Antwarp Blue */
+[data-color-combination="281"] {   /* Pale Lemon Yellow, Benzol Green, Cobalt Green, Antwarp Blue */
   --cc-1: #ffefae;
   --cc-2: #00978d;
   --cc-3: #96d1aa;
   --cc-4: #007190;
 }
-[data-combo="282"] {   /* Eugenia Red | B, Maple, Cobalt Green, Lilac */
+[data-color-combination="282"] {   /* Eugenia Red | B, Maple, Cobalt Green, Lilac */
   --cc-1: #da525d;
   --cc-2: #c59f6b;
   --cc-3: #96d1aa;
   --cc-4: #b984af;
 }
-[data-combo="283"] {   /* Ochre Red, Pale Burnt Lake, Chromium Green, Venice Green */
+[data-color-combination="283"] {   /* Ochre Red, Pale Burnt Lake, Chromium Green, Venice Green */
   --cc-1: #ab544d;
   --cc-2: #802626;
   --cc-3: #719470;
   --cc-4: #62c6bf;
 }
-[data-combo="284"] {   /* Eugenia Red | A, Apricot Yellow, Sea Green, Dusky Green */
+[data-color-combination="284"] {   /* Eugenia Red | A, Apricot Yellow, Sea Green, Dusky Green */
   --cc-1: #e2625e;
   --cc-2: #ffdd00;
   --cc-3: #00b49b;
   --cc-4: #004f46;
 }
-[data-combo="285"] {   /* Light Brown Drab, Burnt Sienna, Peach Red, Turquoise Green */
+[data-color-combination="285"] {   /* Light Brown Drab, Burnt Sienna, Peach Red, Turquoise Green */
   --cc-1: #b59392;
   --cc-2: #ae5224;
   --cc-3: #f15a30;
   --cc-4: #b5decc;
 }
-[data-combo="286"] {   /* Burnt Sienna, Orange Yellow, Peacock Blue, Violet Blue */
+[data-color-combination="286"] {   /* Burnt Sienna, Orange Yellow, Peacock Blue, Violet Blue */
   --cc-1: #ae5224;
   --cc-2: #fcb315;
   --cc-3: #00939b;
   --cc-4: #40456a;
 }
-[data-combo="287"] {   /* Eosine Pink, Pyrite Yellow, Pale King's Blue, Calamine BLue */
+[data-color-combination="287"] {   /* Eosine Pink, Pyrite Yellow, Pale King's Blue, Calamine BLue */
   --cc-1: #f37f94;
   --cc-2: #cab356;
   --cc-3: #a7d4e4;
   --cc-4: #78cdd0;
 }
-[data-combo="288"] {   /* Yellow Orange, Sepia, Taupe Brown, Black */
+[data-color-combination="288"] {   /* Yellow Orange, Sepia, Taupe Brown, Black */
   --cc-1: #f99d1b;
   --cc-2: #644b1e;
   --cc-3: #7a4456;
   --cc-4: #111314;
 }
-[data-combo="289"] {   /* Lemon Yellow, Light Green Yellow, Violet Blue, Dull Violet Black */
+[data-color-combination="289"] {   /* Lemon Yellow, Light Green Yellow, Violet Blue, Dull Violet Black */
   --cc-1: #f8ed43;
   --cc-2: #c7d14f;
   --cc-3: #40456a;
   --cc-4: #1e0e3f;
 }
-[data-combo="290"] {   /* Vistoris Lake, Pale Lemon Yellow, Lincoln Green, Cobalt Green */
+[data-color-combination="290"] {   /* Vistoris Lake, Pale Lemon Yellow, Lincoln Green, Cobalt Green */
   --cc-1: #6d4145;
   --cc-2: #ffefae;
   --cc-3: #555832;
   --cc-4: #96d1aa;
 }
-[data-combo="291"] {   /* Light Green Yellow, Sea Green, Cobalt Green, Calamine BLue */
+[data-color-combination="291"] {   /* Light Green Yellow, Sea Green, Cobalt Green, Calamine BLue */
   --cc-1: #c7d14f;
   --cc-2: #00b49b;
   --cc-3: #96d1aa;
   --cc-4: #78cdd0;
 }
-[data-combo="292"] {   /* Pale Lemon Yellow, Pinkish Cinnamon, Isabella Color, Ecru */
+[data-color-combination="292"] {   /* Pale Lemon Yellow, Pinkish Cinnamon, Isabella Color, Ecru */
   --cc-1: #ffefae;
   --cc-2: #eeb480;
   --cc-3: #c5a56e;
   --cc-4: #c2ae93;
 }
-[data-combo="293"] {   /* Raw Sienna, Turquoise Green, Artemesia Green, Green */
+[data-color-combination="293"] {   /* Raw Sienna, Turquoise Green, Artemesia Green, Green */
   --cc-1: #bb7125;
   --cc-2: #b5decc;
   --cc-3: #709390;
   --cc-4: #489b6e;
 }
-[data-combo="294"] {   /* Sulpher Yellow, Cream Yellow, Cossack Green, Salvia Blue */
+[data-color-combination="294"] {   /* Sulpher Yellow, Cream Yellow, Cossack Green, Salvia Blue */
   --cc-1: #f5ecc2;
   --cc-2: #fdbf68;
   --cc-3: #437742;
   --cc-4: #97acc8;
 }
-[data-combo="295"] {   /* Cream Yellow, Yellow, Blue, Dull Violet Black */
+[data-color-combination="295"] {   /* Cream Yellow, Yellow, Blue, Dull Violet Black */
   --cc-1: #fdbf68;
   --cc-2: #fff200;
   --cc-3: #006eb8;
   --cc-4: #1e0e3f;
 }
-[data-combo="296"] {   /* Sulpher Yellow, Ochraceous Salmon, Pale Raw Umber, Slate Color */
+[data-color-combination="296"] {   /* Sulpher Yellow, Ochraceous Salmon, Pale Raw Umber, Slate Color */
   --cc-1: #f5ecc2;
   --cc-2: #d8a37b;
   --cc-3: #71502f;
   --cc-4: #34454c;
 }
-[data-combo="297"] {   /* Burnt Sienna, Yellow Orange, Olive Green, Violet Blue */
+[data-color-combination="297"] {   /* Burnt Sienna, Yellow Orange, Olive Green, Violet Blue */
   --cc-1: #ae5224;
   --cc-2: #f99d1b;
   --cc-3: #6b7140;
   --cc-4: #40456a;
 }
-[data-combo="298"] {   /* Raw Sienna, Lemon Yellow, Peach Red, Black */
+[data-color-combination="298"] {   /* Raw Sienna, Lemon Yellow, Peach Red, Black */
   --cc-1: #bb7125;
   --cc-2: #f8ed43;
   --cc-3: #f15a30;
   --cc-4: #111314;
 }
-[data-combo="299"] {   /* Indian Lake, Vinaceous Cinnamon, Oil Green, Antwarp Blue */
+[data-color-combination="299"] {   /* Indian Lake, Vinaceous Cinnamon, Oil Green, Antwarp Blue */
   --cc-1: #c53c69;
   --cc-2: #eea78c;
   --cc-3: #819238;
   --cc-4: #007190;
 }
-[data-combo="300"] {   /* Grenadine Pink, Cream Yellow, Turquoise Green, Calamine BLue */
+[data-color-combination="300"] {   /* Grenadine Pink, Cream Yellow, Turquoise Green, Calamine BLue */
   --cc-1: #f48067;
   --cc-2: #fdbf68;
   --cc-3: #b5decc;
   --cc-4: #78cdd0;
 }
-[data-combo="301"] {   /* Spectrum Red, Ivory Buff, Rainette Green, Aconite Violet */
+[data-color-combination="301"] {   /* Spectrum Red, Ivory Buff, Rainette Green, Aconite Violet */
   --cc-1: #e31f26;
   --cc-2: #ebd3a2;
   --cc-3: #8fa071;
   --cc-4: #a36aa5;
 }
-[data-combo="302"] {   /* Cream Yellow, Ecru, Nile Blue, Antwarp Blue */
+[data-color-combination="302"] {   /* Cream Yellow, Ecru, Nile Blue, Antwarp Blue */
   --cc-1: #fdbf68;
   --cc-2: #c2ae93;
   --cc-3: #bce4e5;
   --cc-4: #007190;
 }
-[data-combo="303"] {   /* Naples Yellow, Peach Red, Deep Slate Olive, Neutral Gray */
+[data-color-combination="303"] {   /* Naples Yellow, Peach Red, Deep Slate Olive, Neutral Gray */
   --cc-1: #fbe6a0;
   --cc-2: #f15a30;
   --cc-3: #253122;
   --cc-4: #b6bfc1;
 }
-[data-combo="304"] {   /* Hay's Russet, Cream Yellow, Dark Citrine, Benzol Green */
+[data-color-combination="304"] {   /* Hay's Russet, Cream Yellow, Dark Citrine, Benzol Green */
   --cc-1: #793327;
   --cc-2: #fdbf68;
   --cc-3: #8b835b;
   --cc-4: #00978d;
 }
-[data-combo="305"] {   /* Pinkish Cinnamon, Apricot Yellow, Citron Yellow, Turquoise Green */
+[data-color-combination="305"] {   /* Pinkish Cinnamon, Apricot Yellow, Citron Yellow, Turquoise Green */
   --cc-1: #eeb480;
   --cc-2: #ffdd00;
   --cc-3: #b2b73e;
   --cc-4: #b5decc;
 }
-[data-combo="306"] {   /* Lemon Yellow, Benzol Green, Dull Viridian Green, Nile Blue */
+[data-color-combination="306"] {   /* Lemon Yellow, Benzol Green, Dull Viridian Green, Nile Blue */
   --cc-1: #f8ed43;
   --cc-2: #00978d;
   --cc-3: #009465;
   --cc-4: #bce4e5;
 }
-[data-combo="307"] {   /* Carmine, Grayish Lavender - A, Aconite Violet, Cotinga Purple */
+[data-color-combination="307"] {   /* Carmine, Grayish Lavender - A, Aconite Violet, Cotinga Purple */
   --cc-1: #cc1236;
   --cc-2: #b5b1d8;
   --cc-3: #a36aa5;
   --cc-4: #501345;
 }
-[data-combo="308"] {   /* Fawn, Scarlet, English Red, Cobalt Green */
+[data-color-combination="308"] {   /* Fawn, Scarlet, English Red, Cobalt Green */
   --cc-1: #d1b0a7;
   --cc-2: #cb2f43;
   --cc-3: #d96629;
   --cc-4: #96d1aa;
 }
-[data-combo="309"] {   /* Golden Yellow, Apricot Orange, Violet Blue, Vandar Poel's Blue */
+[data-color-combination="309"] {   /* Golden Yellow, Apricot Orange, Violet Blue, Vandar Poel's Blue */
   --cc-1: #f3a257;
   --cc-2: #f68c50;
   --cc-3: #40456a;
   --cc-4: #064f6e;
 }
-[data-combo="310"] {   /* Sulpher Yellow, Pinkish Cinnamon, Olive, Deep Slate Olive */
+[data-color-combination="310"] {   /* Sulpher Yellow, Pinkish Cinnamon, Olive, Deep Slate Olive */
   --cc-1: #f5ecc2;
   --cc-2: #eeb480;
   --cc-3: #837e31;
   --cc-4: #253122;
 }
-[data-combo="311"] {   /* Pompeian Red, Cream Yellow, Dark Greenish Glaucous, Light Green Yellow */
+[data-color-combination="311"] {   /* Pompeian Red, Cream Yellow, Dark Greenish Glaucous, Light Green Yellow */
   --cc-1: #ab2439;
   --cc-2: #fdbf68;
   --cc-3: #b7c2a9;
   --cc-4: #c7d14f;
 }
-[data-combo="312"] {   /* Burnt Sienna, Yellow Orange, Artemesia Green, Helvetia Blue */
+[data-color-combination="312"] {   /* Burnt Sienna, Yellow Orange, Artemesia Green, Helvetia Blue */
   --cc-1: #ae5224;
   --cc-2: #f99d1b;
   --cc-3: #709390;
   --cc-4: #005b8d;
 }
-[data-combo="313"] {   /* Carmine, Yellow, Diamine Green, Black */
+[data-color-combination="313"] {   /* Carmine, Yellow, Diamine Green, Black */
   --cc-1: #cc1236;
   --cc-2: #fff200;
   --cc-3: #1a7444;
   --cc-4: #111314;
 }
-[data-combo="314"] {   /* Eosine Pink, Hay's Russet, Deep Lyons Blue, Dusky Madder Violet */
+[data-color-combination="314"] {   /* Eosine Pink, Hay's Russet, Deep Lyons Blue, Dusky Madder Violet */
   --cc-1: #f37f94;
   --cc-2: #793327;
   --cc-3: #1c4286;
   --cc-4: #4e1d4c;
 }
-[data-combo="315"] {   /* Grenadine Pink, Sulpher Yellow, Golden Yellow, Eupatorium Purple */
+[data-color-combination="315"] {   /* Grenadine Pink, Sulpher Yellow, Golden Yellow, Eupatorium Purple */
   --cc-1: #f48067;
   --cc-2: #f5ecc2;
   --cc-3: #f3a257;
   --cc-4: #bf5892;
 }
-[data-combo="316"] {   /* Vandyke Red, Dull Viridian Green, Violet, Red Violet */
+[data-color-combination="316"] {   /* Vandyke Red, Dull Viridian Green, Violet, Red Violet */
   --cc-1: #82241f;
   --cc-2: #009465;
   --cc-3: #4f4086;
   --cc-4: #59256a;
 }
-[data-combo="317"] {   /* Light Pinkish Cinnamon, Ecru, Lemon Yellow, Turquoise Green */
+[data-color-combination="317"] {   /* Light Pinkish Cinnamon, Ecru, Lemon Yellow, Turquoise Green */
   --cc-1: #fcc79b;
   --cc-2: #c2ae93;
   --cc-3: #f8ed43;
   --cc-4: #b5decc;
 }
-[data-combo="318"] {   /* Light Brownish Olive, Blackish Olive, Dusky Green, Deep Slate Green */
+[data-color-combination="318"] {   /* Light Brownish Olive, Blackish Olive, Dusky Green, Deep Slate Green */
   --cc-1: #806e4b;
   --cc-2: #42533e;
   --cc-3: #004f46;
   --cc-4: #112f2c;
 }
-[data-combo="319"] {   /* Raw Sienna, Apricot Yellow, Yellow Orange, Cossack Green */
+[data-color-combination="319"] {   /* Raw Sienna, Apricot Yellow, Yellow Orange, Cossack Green */
   --cc-1: #bb7125;
   --cc-2: #ffdd00;
   --cc-3: #f99d1b;
   --cc-4: #437742;
 }
-[data-combo="320"] {   /* Coral Red, Sulpher Yellow, Oil Green, Light Glaucous Blue */
+[data-color-combination="320"] {   /* Coral Red, Sulpher Yellow, Oil Green, Light Glaucous Blue */
   --cc-1: #f58e84;
   --cc-2: #f5ecc2;
   --cc-3: #819238;
   --cc-4: #a5c8d1;
 }
-[data-combo="321"] {   /* Light Brown Drab, Sulpher Yellow, Deep Slate Olive, Salvia Blue */
+[data-color-combination="321"] {   /* Light Brown Drab, Sulpher Yellow, Deep Slate Olive, Salvia Blue */
   --cc-1: #b59392;
   --cc-2: #f5ecc2;
   --cc-3: #253122;
   --cc-4: #97acc8;
 }
-[data-combo="322"] {   /* Spectrum Red, Brick Red, Eupatorium Purple, Blue Violet */
+[data-color-combination="322"] {   /* Spectrum Red, Brick Red, Eupatorium Purple, Blue Violet */
   --cc-1: #e31f26;
   --cc-2: #a84222;
   --cc-3: #bf5892;
   --cc-4: #6450a1;
 }
-[data-combo="323"] {   /* Cinnamon Buff, Citron Yellow, Madder Brown, Black */
+[data-color-combination="323"] {   /* Cinnamon Buff, Citron Yellow, Madder Brown, Black */
   --cc-1: #fdc57e;
   --cc-2: #b2b73e;
   --cc-3: #762c19;
   --cc-4: #111314;
 }
-[data-combo="324"] {   /* Pompeian Red, Olympic Blue, Aconite Violet, Neutral Gray */
+[data-color-combination="324"] {   /* Pompeian Red, Olympic Blue, Aconite Violet, Neutral Gray */
   --cc-1: #ab2439;
   --cc-2: #5a82b3;
   --cc-3: #a36aa5;
   --cc-4: #b6bfc1;
 }
-[data-combo="325"] {   /* Eugenia Red | B, Naples Yellow, Yellow Ocher, Deep Slate Green */
+[data-color-combination="325"] {   /* Eugenia Red | B, Naples Yellow, Yellow Ocher, Deep Slate Green */
   --cc-1: #da525d;
   --cc-2: #fbe6a0;
   --cc-3: #e2b540;
   --cc-4: #112f2c;
 }
-[data-combo="326"] {   /* Sulpher Yellow, Peach Red, Yellow Green, Night Green */
+[data-color-combination="326"] {   /* Sulpher Yellow, Peach Red, Yellow Green, Night Green */
   --cc-1: #f5ecc2;
   --cc-2: #f15a30;
   --cc-3: #afd472;
   --cc-4: #87c540;
 }
-[data-combo="327"] {   /* Eosine Pink, Raw Sienna, Ecru, Grayish Lavender - B */
+[data-color-combination="327"] {   /* Eosine Pink, Raw Sienna, Ecru, Grayish Lavender - B */
   --cc-1: #f37f94;
   --cc-2: #bb7125;
   --cc-3: #c2ae93;
   --cc-4: #c0a9b3;
 }
-[data-combo="328"] {   /* Brick Red, Apricot Orange, Vandyke Brown, Light Porcelain Green */
+[data-color-combination="328"] {   /* Brick Red, Apricot Orange, Vandyke Brown, Light Porcelain Green */
   --cc-1: #a84222;
   --cc-2: #f68c50;
   --cc-3: #4b3317;
   --cc-4: #00908a;
 }
-[data-combo="329"] {   /* Cream Yellow, Grayish Lavender - B, Cotinga Purple, Slate Color */
+[data-color-combination="329"] {   /* Cream Yellow, Grayish Lavender - B, Cotinga Purple, Slate Color */
   --cc-1: #fdbf68;
   --cc-2: #c0a9b3;
   --cc-3: #501345;
   --cc-4: #34454c;
 }
-[data-combo="330"] {   /* Olive Buff, Nile Blue, Salvia Blue, Green Blue */
+[data-color-combination="330"] {   /* Olive Buff, Nile Blue, Salvia Blue, Green Blue */
   --cc-1: #c1c494;
   --cc-2: #bce4e5;
   --cc-3: #97acc8;
   --cc-4: #099197;
 }
-[data-combo="331"] {   /* Indian Lake, Dull Violet Black, Light Mauve, Violet */
+[data-color-combination="331"] {   /* Indian Lake, Dull Violet Black, Light Mauve, Violet */
   --cc-1: #c53c69;
   --cc-2: #1e0e3f;
   --cc-3: #9a72aa;
   --cc-4: #4f4086;
 }
-[data-combo="332"] {   /* Coral Red, Scarlet, Deep Slate Olive, Dusky Green */
+[data-color-combination="332"] {   /* Coral Red, Scarlet, Deep Slate Olive, Dusky Green */
   --cc-1: #f58e84;
   --cc-2: #cb2f43;
   --cc-3: #253122;
   --cc-4: #004f46;
 }
-[data-combo="333"] {   /* Burnt Sienna, Lemon Yellow, Cobalt Green, Blue */
+[data-color-combination="333"] {   /* Burnt Sienna, Lemon Yellow, Cobalt Green, Blue */
   --cc-1: #ae5224;
   --cc-2: #f8ed43;
   --cc-3: #96d1aa;
   --cc-4: #006eb8;
 }
-[data-combo="334"] {   /* Seashell Pink, Olive, Yellow Green, Antwarp Blue */
+[data-color-combination="334"] {   /* Seashell Pink, Olive, Yellow Green, Antwarp Blue */
   --cc-1: #fdd4bd;
   --cc-2: #837e31;
   --cc-3: #afd472;
   --cc-4: #007190;
 }
-[data-combo="335"] {   /* Vandyke Red, Yellow Orange, Violet, Slate Color */
+[data-color-combination="335"] {   /* Vandyke Red, Yellow Orange, Violet, Slate Color */
   --cc-1: #82241f;
   --cc-2: #f99d1b;
   --cc-3: #4f4086;
   --cc-4: #34454c;
 }
-[data-combo="336"] {   /* Eosine Pink, Hay's Russet, Pale Lemon Yellow, Blackish Olive */
+[data-color-combination="336"] {   /* Eosine Pink, Hay's Russet, Pale Lemon Yellow, Blackish Olive */
   --cc-1: #f37f94;
   --cc-2: #793327;
   --cc-3: #ffefae;
   --cc-4: #42533e;
 }
-[data-combo="337"] {   /* Vistoris Lake, Laelia Pink, Violet Carmine, Black */
+[data-color-combination="337"] {   /* Vistoris Lake, Laelia Pink, Violet Carmine, Black */
   --cc-1: #6d4145;
   --cc-2: #ca92a8;
   --cc-3: #713b4c;
   --cc-4: #111314;
 }
-[data-combo="338"] {   /* Carmine Red, Orange Yellow, Dusky Green, Grayish Lavender - B */
+[data-color-combination="338"] {   /* Carmine Red, Orange Yellow, Dusky Green, Grayish Lavender - B */
   --cc-1: #a62c37;
   --cc-2: #fcb315;
   --cc-3: #004f46;
   --cc-4: #c0a9b3;
 }
-[data-combo="339"] {   /* Ochraceous Salmon, English Red, Light Glaucous Blue, Violet Blue */
+[data-color-combination="339"] {   /* Ochraceous Salmon, English Red, Light Glaucous Blue, Violet Blue */
   --cc-1: #d8a37b;
   --cc-2: #d96629;
   --cc-3: #a5c8d1;
   --cc-4: #40456a;
 }
-[data-combo="340"] {   /* Peach Red, Sea Green, Neutral Gray, Black */
+[data-color-combination="340"] {   /* Peach Red, Sea Green, Neutral Gray, Black */
   --cc-1: #f15a30;
   --cc-2: #00b49b;
   --cc-3: #b6bfc1;
   --cc-4: #111314;
 }
-[data-combo="341"] {   /* Grenadine Pink, Cossack Green, Deep Slate Olive, Light Glaucous Blue */
+[data-color-combination="341"] {   /* Grenadine Pink, Cossack Green, Deep Slate Olive, Light Glaucous Blue */
   --cc-1: #f48067;
   --cc-2: #437742;
   --cc-3: #253122;
   --cc-4: #a5c8d1;
 }
-[data-combo="342"] {   /* Corinthian Pink, Cream Yellow, Orange Citrine, Deep Slate Olive */
+[data-color-combination="342"] {   /* Corinthian Pink, Cream Yellow, Orange Citrine, Deep Slate Olive */
   --cc-1: #f8b6ba;
   --cc-2: #fdbf68;
   --cc-3: #986f2d;
   --cc-4: #253122;
 }
-[data-combo="343"] {   /* Burnt Sienna, Ivory Buff, Deep Grayish Olive, Vandar Poel's Blue */
+[data-color-combination="343"] {   /* Burnt Sienna, Ivory Buff, Deep Grayish Olive, Vandar Poel's Blue */
   --cc-1: #ae5224;
   --cc-2: #ebd3a2;
   --cc-3: #635a3a;
   --cc-4: #064f6e;
 }
-[data-combo="344"] {   /* Cinnamon Buff, Deep Lyons Blue, Aconite Violet, Black */
+[data-color-combination="344"] {   /* Cinnamon Buff, Deep Lyons Blue, Aconite Violet, Black */
   --cc-1: #fdc57e;
   --cc-2: #1c4286;
   --cc-3: #a36aa5;
   --cc-4: #111314;
 }
-[data-combo="345"] {   /* Hay's Russet, Nile Blue, Venice Green, Blue Violet */
+[data-color-combination="345"] {   /* Hay's Russet, Nile Blue, Venice Green, Blue Violet */
   --cc-1: #793327;
   --cc-2: #bce4e5;
   --cc-3: #62c6bf;
   --cc-4: #6450a1;
 }
-[data-combo="346"] {   /* Rosolanc Purple, Turquoise Green, Light Green Yellow, Andover Green */
+[data-color-combination="346"] {   /* Rosolanc Purple, Turquoise Green, Light Green Yellow, Andover Green */
   --cc-1: #b73f74;
   --cc-2: #b5decc;
   --cc-3: #c7d14f;
   --cc-4: #6d7e77;
 }
-[data-combo="347"] {   /* Olive Yellow, Sea Green, Helvetia Blue, Lilac */
+[data-color-combination="347"] {   /* Olive Yellow, Sea Green, Helvetia Blue, Lilac */
   --cc-1: #a6a159;
   --cc-2: #00b49b;
   --cc-3: #005b8d;
   --cc-4: #b984af;
 }
-[data-combo="348"] {   /* Olive Buff, Cossack Green, Deep Slate Olive, Cotinga Purple */
+[data-color-combination="348"] {   /* Olive Buff, Cossack Green, Deep Slate Olive, Cotinga Purple */
   --cc-1: #c1c494;
   --cc-2: #437742;
   --cc-3: #253122;
